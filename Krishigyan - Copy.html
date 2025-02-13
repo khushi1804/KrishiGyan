@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KRISHIGYAN</title>
+    <style>
+        /* Basic Reset */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        /* Full Page Setup */
+        body, html {
+            height: 100%;
+            width: 100%;
+            margin: 0;
+            font-family: Poppins;
+        }
+
+        /* Background Video */
+        .video-container {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            overflow: hidden;
+        }
+
+        #bg-video {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            z-index: -1;
+        }
+
+        /* Content Overlay */
+        .content {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            text-align: center;
+            color: lightblue;
+        }
+
+        h1 {
+            font-size: 8em;
+            margin-bottom: 50px;
+            font-family:Raleway;
+            color: white;
+        }
+
+        /* Info Boxes */
+        .info-boxes {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            margin-top: 20px;
+        }
+
+        .box {
+            background-color: rgba(0, 0, 190, 0.5);
+            padding: 20px;
+            border-radius: 10px;
+            width: 300px;
+            color: white;
+        }
+
+        .box h3 {
+            margin-bottom: 10px;
+            font-size: 1.5em;
+        }
+
+        .box p {
+            font-size: 1em;
+        }
+
+        /* Button to open the form */
+        .open-form-button {
+            font-size: 1.5em;
+            padding: 10px 20px;
+            background-color:green;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            position: relative;
+            top: 20px; 
+            
+        }
+
+        .open-form-button:hover {
+            background-color: green;
+        }
+
+        /* The Modal (background) */
+        .modal {
+            display: none;
+            position: fixed;
+            z-index: 1; 
+            left: 0;
+            top: 0;
+            width: 100%; 
+            height: 100%; 
+            background-color: rgba(0, 0, 0, 0.4);
+        }
+
+        /* Modal Content (Form) */
+        .modal-content {
+            background-color:white;
+            margin: 15% auto;
+            padding: 20px;
+            border: 1px solid black;
+            width: 80%;
+            max-width: 500px;
+            border-radius: 10px;
+        }
+
+        /* Close Button */
+        .close {
+            color: white;
+            float: right;
+            font-size: 28px;
+            font-weight: bold;
+        }
+
+        .close:hover,
+        .close:focus {
+            color: black;
+            text-decoration: none;
+            cursor: pointer;
+        }
+
+        /* Form Styles */
+        input[type="text"], input[type="text"], textarea {
+            width: 100%;
+            padding: 10px;
+            margin: 10px 0;
+            border: 1px solid grey;
+            border-radius: 5px;
+        }
+
+        textarea {
+            resize: vertical;
+        }
+
+        button[type="submit"] {
+            padding: 10px 20px;
+            background-color: green;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        button[type="submit"]:hover {
+            background-color: green;
+        }
+    </style>
+</head>
+<body>
+    <!-- Background Video -->
+    <video id="bg-video" class="video-background" autoplay loop muted>
+        <source src="background_video.mp4" type="video/mp4">
+        <source src="background_video.webm" type="video/webm">
+        <source src="background_video.ogv" type="video/ogv">
+    </video>
+
+    <!-- Content Overlay -->
+    <div class="content">
+        <h1>KRISHIGYAN</h1>
+
+        <!-- Boxes with Information -->
+        <div class="info-boxes">
+            <div class="box">
+                <h3>Crop Prediction Based on Soil Type</h3>
+                <p>Crop yield prediction is essential for efficient farm management, economic planning, food security and environmental sustainability which helps farmers and provides governments and organizations with data to ensure stable food supply chains.</p>
+            </div>
+            <div class="box">
+                <h3>Optimal Weather Conditions for Crops</h3>
+                <p>Large volumes of meteorological data are analyzed by machine learning models to produce precise weather predictions. This aids farmers in scheduling their operations, including planting, watering, and harvesting, in accordance with the weather forecast.</p>
+            </div>
+            <div class="box">
+                <h3>Market-Driven Crop Suggestions</h3>
+                <p>By examining past market data, weather trends, and economic variables, machine learning and artificial intelligence can be used to forecast future crop prices. Farmers can use these forecasts to choose the ideal time to sell their crops along with guidance on which crop production will lead to optimal financial growth.</p>
+            </div>
+            <div class="box">
+                <h3>Real-Time Monitoring</h3>
+                <p>Some information for box 4.</p>
+            </div>
+        </div>
+
+        <!-- Button to open the pop-up form -->
+        <button class="open-form-button" id="openFormBtn">Open Form</button>
+
+        <!-- The Modal (Hidden form) -->
+        <div class="modal" id="myModal">
+            <!-- Modal content -->
+            <div class="modal-content">
+                <span class="close" id="closeFormBtn">&times;</span>
+                <h2>Contact Us</h2>
+                <form id="contactForm">
+                    <label for="name">Name:</label>
+                    <input type="text" id="name" name="name" required><br>
+
+                    <label for="Number">Number:</label>
+                    <input type="text" id="Number" name="Number" required><br>
+
+                    <label for="region">Region:</label>
+                    <input type="text" id="region" name="region" required><br>
+
+                    <button type="submit">Submit</button>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Get the modal and button elements
+        var modal = document.getElementById("myModal");
+        var openFormBtn = document.getElementById("openFormBtn");
+        var closeFormBtn = document.getElementById("closeFormBtn");
+
+        // When the user clicks the button, open the form
+        openFormBtn.onclick = function() {
+            modal.style.display = "block";
+        }
+
+        // When the user clicks on <span> (x), close the form
+        closeFormBtn.onclick = function() {
+            modal.style.display = "none";
+        }
+
+        // When the user clicks anywhere outside of the modal, close it
+        window.onclick = function(event) {
+            if (event.target == modal) {
+                modal.style.display = "none";
+            }
+        }
+    </script>
+</body>
+</html>
