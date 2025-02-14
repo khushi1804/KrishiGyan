@@ -1,0 +1,1001 @@
+Date,State,Soil_Moisture(%),Rainfall(mm),Evapotranspiration(mm/day),Soil_Type,Crop_Stage,Temperature(°C),Humidity(%),Water_Table_Depth(m),Irrigation_Needed
+2024-08-15,Uttar Pradesh,75.5,120.2,4.03,Sandy Loam,Maturity,22.47,89.39,1.63,No
+2024-10-23,Uttar Pradesh,82.61,158.6,4.73,Clayey,Maturity,32.65,40.53,2.64,No
+2024-08-14,Uttar Pradesh,62.26,98.48,6.27,Loamy,Maturity,24.73,88.19,1.72,No
+2024-06-26,Uttar Pradesh,43.76,76.47,5.97,Loamy,Tillering,22.25,75.78,2.46,No
+2024-11-05,Uttar Pradesh,28.42,183.27,2.69,Sandy Loam,Flowering,32.75,68.17,1.77,Yes
+2024-06-07,Uttar Pradesh,77.5,5.54,5.88,Sandy Loam,Flowering,28.19,65.87,2.41,Yes
+2024-11-12,Uttar Pradesh,23.76,161.19,5.77,Loamy,Panicle Initiation,33.28,53.88,2.63,Yes
+2024-06-23,Uttar Pradesh,65.73,43.67,5.21,Sandy Loam,Flowering,26.4,94.77,2.61,Yes
+2024-11-18,Uttar Pradesh,39.26,38.38,4.72,Clayey,Maturity,29.92,43.2,2.5,No
+2024-10-17,Uttar Pradesh,56.6,82.03,3.95,Loamy,Tillering,29.22,60.94,2.9,No
+2024-09-01,Uttar Pradesh,61.63,126.56,2.86,Sandy Loam,Panicle Initiation,30.25,46.27,0.92,No
+2024-09-23,Uttar Pradesh,74.4,148.65,6.49,Sandy Loam,Tillering,36.25,78.74,1.86,No
+2024-10-26,Uttar Pradesh,76.6,125.68,5.61,Clayey,Tillering,36.06,93.07,0.7,No
+2024-11-17,Uttar Pradesh,37.69,69.46,6.62,Clayey,Tillering,24.3,72.82,1.72,No
+2024-08-16,Uttar Pradesh,36.51,150.13,4.51,Sandy Loam,Flowering,31.54,53.4,1.16,No
+2024-11-14,Uttar Pradesh,39.63,160.06,2.87,Loamy,Tillering,23.23,50.13,2.09,No
+2024-11-08,Uttar Pradesh,57.84,122.92,2.93,Clayey,Maturity,28.25,84.42,2.68,No
+2024-07-07,Uttar Pradesh,45.48,89.53,6.31,Sandy Loam,Tillering,26.18,41.34,2.02,No
+2024-06-19,Uttar Pradesh,40.27,124.24,2.69,Sandy Loam,Tillering,25.96,54.36,2.63,No
+2024-11-14,Uttar Pradesh,38.52,4.76,3.54,Sandy Loam,Tillering,25.88,81.34,1.2,No
+2024-06-08,Uttar Pradesh,10.23,38.72,6.39,Loamy,Flowering,33.12,66.62,0.74,Yes
+2024-08-02,Uttar Pradesh,48.43,119.84,6.31,Sandy Loam,Tillering,30.02,89.15,1.46,No
+2024-06-21,Uttar Pradesh,73.63,140.63,5.5,Loamy,Panicle Initiation,30.93,42.61,0.7,No
+2024-09-22,Uttar Pradesh,31.92,43.61,4.29,Loamy,Flowering,29.34,57.41,2.75,No
+2024-10-18,Uttar Pradesh,29.36,170.98,6.57,Sandy Loam,Maturity,37.71,85.23,0.57,Yes
+2024-09-17,Uttar Pradesh,39.86,126.45,2.88,Sandy Loam,Panicle Initiation,27.15,49.43,2.12,No
+2024-09-16,Uttar Pradesh,61.83,172.57,5.84,Loamy,Tillering,24.7,51.98,1.82,No
+2024-08-17,Uttar Pradesh,14.18,120.85,6.61,Sandy Loam,Flowering,36.74,75.59,2.12,Yes
+2024-10-11,Uttar Pradesh,53.34,99.77,6.15,Clayey,Panicle Initiation,26.48,61.26,1.9,No
+2024-06-04,Uttar Pradesh,86.29,126.93,3.1,Loamy,Maturity,36.1,68.75,1.02,No
+2024-07-07,Uttar Pradesh,85.95,196.23,5.51,Sandy Loam,Maturity,31.22,41.77,2.55,No
+2024-08-10,Uttar Pradesh,52.12,26.66,3.98,Clayey,Maturity,24.64,82.01,2.82,No
+2024-09-22,Uttar Pradesh,31.9,1.67,4.08,Sandy Loam,Flowering,25.43,53.11,1.53,No
+2024-06-24,Uttar Pradesh,13.98,50.1,2.62,Loamy,Tillering,28.62,90.53,2.23,Yes
+2024-08-31,Uttar Pradesh,36.82,89.89,4.58,Clayey,Tillering,37.35,44.76,1.59,No
+2024-08-22,Uttar Pradesh,17.87,182.83,4.68,Clayey,Flowering,32.89,70.11,1.71,Yes
+2024-10-07,Uttar Pradesh,24.64,46.56,6.28,Sandy Loam,Maturity,22.56,58.26,0.61,Yes
+2024-10-15,Uttar Pradesh,26.54,145.18,6.07,Clayey,Panicle Initiation,35.56,90.13,1.07,Yes
+2024-09-19,Uttar Pradesh,13.63,187.44,5.47,Sandy Loam,Tillering,36.29,49.15,0.64,Yes
+2024-10-01,Uttar Pradesh,29.65,73.07,3.4,Clayey,Flowering,35.95,46.15,0.95,Yes
+2024-10-21,Uttar Pradesh,16.93,112.32,3.34,Loamy,Maturity,26.61,94.02,0.71,Yes
+2024-07-26,Uttar Pradesh,44.49,88.92,4.59,Sandy Loam,Maturity,23.63,69.58,1.42,No
+2024-11-26,Uttar Pradesh,76.23,90.9,2.41,Sandy Loam,Tillering,32.86,90.49,1.63,No
+2024-06-26,Uttar Pradesh,82.11,87.69,5.77,Loamy,Maturity,26.85,86.99,2.84,No
+2024-06-17,Uttar Pradesh,65.18,189.83,2.99,Loamy,Panicle Initiation,32.8,56.0,0.62,No
+2024-08-20,Uttar Pradesh,11.48,46.53,3.33,Sandy Loam,Panicle Initiation,22.08,80.49,2.26,Yes
+2024-11-03,Uttar Pradesh,65.95,39.85,4.37,Loamy,Flowering,36.61,54.67,2.69,No
+2024-10-19,Uttar Pradesh,18.65,64.17,2.45,Clayey,Flowering,27.27,90.48,2.12,Yes
+2024-08-31,Uttar Pradesh,80.6,153.98,3.0,Loamy,Maturity,37.02,92.01,0.84,No
+2024-06-02,Uttar Pradesh,20.97,70.16,4.1,Sandy Loam,Panicle Initiation,28.33,88.54,0.57,Yes
+2024-09-03,Uttar Pradesh,83.52,143.92,4.46,Loamy,Tillering,31.54,93.27,0.65,No
+2024-09-09,Uttar Pradesh,38.99,154.64,2.83,Loamy,Tillering,34.76,80.36,1.05,No
+2024-06-06,Uttar Pradesh,33.08,93.46,3.87,Clayey,Panicle Initiation,23.28,71.2,1.99,No
+2024-07-25,Uttar Pradesh,58.74,38.27,6.68,Clayey,Tillering,28.39,56.19,1.89,Yes
+2024-06-07,Uttar Pradesh,89.48,177.23,6.03,Sandy Loam,Maturity,34.47,74.85,0.72,No
+2024-06-05,Uttar Pradesh,49.88,81.46,3.45,Loamy,Maturity,29.92,45.57,2.37,No
+2024-07-17,Uttar Pradesh,57.22,78.8,2.34,Sandy Loam,Maturity,28.66,68.64,2.17,No
+2024-06-03,Uttar Pradesh,57.65,161.18,3.56,Clayey,Flowering,32.51,44.18,1.34,No
+2024-11-14,Uttar Pradesh,57.71,193.8,4.8,Sandy Loam,Flowering,37.47,85.87,2.47,No
+2024-07-06,Uttar Pradesh,85.91,130.57,6.53,Loamy,Flowering,26.02,91.13,2.19,No
+2024-06-11,Uttar Pradesh,53.36,162.8,2.52,Clayey,Panicle Initiation,33.06,63.29,2.57,No
+2024-09-26,Uttar Pradesh,40.55,175.56,6.67,Clayey,Tillering,25.47,49.35,2.79,No
+2024-10-16,Uttar Pradesh,53.18,6.21,6.58,Clayey,Maturity,35.14,50.06,2.74,Yes
+2024-11-17,Uttar Pradesh,76.5,193.97,5.14,Clayey,Flowering,32.53,66.4,0.81,No
+2024-10-01,Uttar Pradesh,37.84,164.82,4.48,Sandy Loam,Maturity,37.84,75.43,2.62,No
+2024-11-28,Uttar Pradesh,83.26,52.89,6.41,Loamy,Maturity,24.87,42.32,1.51,No
+2024-10-26,Uttar Pradesh,48.47,58.84,3.44,Sandy Loam,Panicle Initiation,33.56,71.9,1.57,No
+2024-08-20,Uttar Pradesh,77.33,161.93,6.96,Clayey,Flowering,23.92,84.45,2.82,No
+2024-09-30,Uttar Pradesh,75.2,61.14,2.87,Clayey,Panicle Initiation,32.7,87.84,0.62,No
+2024-10-12,Uttar Pradesh,33.03,175.53,3.98,Sandy Loam,Panicle Initiation,34.14,65.94,0.66,No
+2024-07-09,Uttar Pradesh,28.58,148.12,4.87,Clayey,Flowering,30.0,44.04,2.26,Yes
+2024-11-02,Uttar Pradesh,15.29,195.51,2.25,Loamy,Panicle Initiation,36.32,67.0,2.03,Yes
+2024-06-20,Uttar Pradesh,83.09,48.48,6.33,Clayey,Panicle Initiation,31.63,76.1,2.43,Yes
+2024-09-25,Uttar Pradesh,74.09,29.07,2.88,Clayey,Flowering,36.12,54.57,0.62,No
+2024-07-29,Uttar Pradesh,75.28,102.17,2.76,Clayey,Panicle Initiation,24.77,88.35,1.16,No
+2024-07-31,Uttar Pradesh,61.88,101.31,3.22,Clayey,Flowering,27.3,46.98,0.99,No
+2024-11-22,Uttar Pradesh,45.31,60.85,4.2,Sandy Loam,Panicle Initiation,34.4,53.83,2.93,No
+2024-09-04,Uttar Pradesh,70.07,30.98,6.49,Loamy,Panicle Initiation,22.33,81.13,1.31,Yes
+2024-07-03,Uttar Pradesh,64.45,25.37,5.77,Clayey,Flowering,29.64,62.65,1.52,Yes
+2024-10-23,Uttar Pradesh,80.45,145.2,3.99,Sandy Loam,Maturity,24.66,48.54,2.58,No
+2024-08-05,Uttar Pradesh,65.41,54.45,5.68,Loamy,Panicle Initiation,29.7,71.56,0.96,No
+2024-07-16,Uttar Pradesh,33.62,171.59,5.8,Sandy Loam,Maturity,36.16,73.01,1.85,No
+2024-11-26,Uttar Pradesh,12.33,85.55,3.74,Loamy,Panicle Initiation,26.1,64.49,2.37,Yes
+2024-11-10,Uttar Pradesh,30.08,28.29,3.36,Sandy Loam,Panicle Initiation,33.83,93.09,1.82,No
+2024-06-02,Uttar Pradesh,73.2,46.72,3.91,Clayey,Maturity,35.76,82.13,0.92,No
+2024-10-18,Uttar Pradesh,79.69,198.77,2.81,Sandy Loam,Flowering,22.99,48.91,1.88,No
+2024-11-16,Uttar Pradesh,47.2,197.51,6.68,Loamy,Flowering,33.02,92.78,2.03,No
+2024-06-16,Uttar Pradesh,81.08,81.97,3.6,Clayey,Tillering,25.58,64.23,1.54,No
+2024-06-12,Uttar Pradesh,63.35,45.07,4.17,Loamy,Tillering,23.67,50.4,2.86,No
+2024-11-07,Uttar Pradesh,10.4,192.22,3.2,Clayey,Flowering,28.51,89.41,3.0,Yes
+2024-06-14,Uttar Pradesh,67.22,178.9,4.21,Sandy Loam,Flowering,24.37,94.99,2.64,No
+2024-07-25,Uttar Pradesh,46.52,43.6,5.24,Loamy,Maturity,32.97,47.72,1.94,Yes
+2024-08-25,Uttar Pradesh,37.85,115.08,5.46,Sandy Loam,Maturity,37.14,47.2,1.98,No
+2024-09-14,Uttar Pradesh,50.22,183.13,4.89,Sandy Loam,Maturity,36.17,82.93,1.87,No
+2024-06-19,Uttar Pradesh,29.47,120.4,5.0,Clayey,Panicle Initiation,26.62,79.44,2.17,Yes
+2024-09-01,Uttar Pradesh,34.83,199.3,3.31,Clayey,Panicle Initiation,35.48,91.33,2.44,No
+2024-10-19,Uttar Pradesh,72.38,55.54,5.64,Clayey,Flowering,31.57,68.45,1.84,No
+2024-06-27,Uttar Pradesh,17.25,71.26,5.13,Clayey,Tillering,27.63,59.39,2.27,Yes
+2024-10-23,Uttar Pradesh,16.25,55.24,2.66,Loamy,Tillering,34.46,53.14,2.8,Yes
+2024-10-10,Uttar Pradesh,11.77,130.49,5.21,Loamy,Panicle Initiation,32.61,74.12,1.96,Yes
+2024-11-28,Uttar Pradesh,50.12,140.62,3.91,Sandy Loam,Panicle Initiation,30.69,88.89,1.89,No
+2024-09-10,Uttar Pradesh,30.99,36.83,3.09,Clayey,Panicle Initiation,24.67,86.65,2.85,No
+2024-08-06,Uttar Pradesh,55.39,91.77,6.02,Clayey,Tillering,30.61,58.78,1.43,No
+2024-11-12,Uttar Pradesh,38.12,156.09,6.76,Clayey,Flowering,27.06,63.93,1.47,No
+2024-09-15,Uttar Pradesh,41.42,149.93,3.62,Loamy,Panicle Initiation,24.9,64.43,1.2,No
+2024-07-11,Uttar Pradesh,12.47,162.53,3.2,Loamy,Maturity,36.1,53.28,2.89,Yes
+2024-07-16,Uttar Pradesh,15.39,102.65,2.81,Clayey,Flowering,23.95,56.64,2.96,Yes
+2024-07-16,Uttar Pradesh,30.25,140.54,3.78,Sandy Loam,Tillering,35.22,64.65,2.86,No
+2024-07-24,Uttar Pradesh,18.62,165.89,2.56,Loamy,Tillering,35.78,88.44,0.9,Yes
+2024-06-26,Uttar Pradesh,21.88,64.59,3.81,Loamy,Maturity,36.18,91.28,0.93,Yes
+2024-11-16,Uttar Pradesh,10.38,135.02,3.04,Sandy Loam,Panicle Initiation,30.43,75.2,1.1,Yes
+2024-09-27,Uttar Pradesh,17.6,68.94,2.4,Sandy Loam,Maturity,34.03,80.3,2.08,Yes
+2024-10-01,Uttar Pradesh,80.92,52.81,4.63,Clayey,Tillering,28.1,72.42,2.15,No
+2024-07-21,Uttar Pradesh,83.59,52.17,4.46,Sandy Loam,Flowering,32.57,57.36,2.58,No
+2024-09-22,Uttar Pradesh,43.99,187.62,5.99,Clayey,Tillering,27.99,78.67,2.9,No
+2024-06-01,Uttar Pradesh,21.23,139.53,2.24,Clayey,Panicle Initiation,26.25,49.97,1.55,Yes
+2024-09-14,Uttar Pradesh,66.75,95.46,5.59,Sandy Loam,Panicle Initiation,23.8,48.23,1.24,No
+2024-06-13,Uttar Pradesh,42.35,195.63,5.04,Loamy,Panicle Initiation,35.06,59.85,1.62,No
+2024-08-20,Uttar Pradesh,65.96,183.83,4.92,Loamy,Panicle Initiation,35.5,57.07,2.12,No
+2024-09-11,Uttar Pradesh,44.07,56.41,6.32,Loamy,Panicle Initiation,30.18,41.03,2.0,No
+2024-06-11,Uttar Pradesh,53.95,27.77,3.27,Loamy,Tillering,27.72,55.93,1.92,No
+2024-08-16,Uttar Pradesh,81.33,110.5,4.31,Sandy Loam,Flowering,24.49,57.08,1.22,No
+2024-08-27,Uttar Pradesh,22.23,134.58,2.39,Clayey,Panicle Initiation,37.78,90.42,2.12,Yes
+2024-11-15,Uttar Pradesh,63.74,155.91,5.61,Clayey,Maturity,28.25,53.3,1.11,No
+2024-10-18,Uttar Pradesh,49.84,19.47,3.79,Clayey,Flowering,25.35,46.43,2.61,No
+2024-11-12,Uttar Pradesh,46.32,28.7,4.57,Sandy Loam,Panicle Initiation,37.66,52.65,1.39,No
+2024-10-07,Uttar Pradesh,56.86,18.7,3.54,Sandy Loam,Tillering,25.53,56.09,0.88,No
+2024-07-16,Uttar Pradesh,25.8,20.97,4.98,Loamy,Tillering,32.32,71.13,0.83,Yes
+2024-07-24,Uttar Pradesh,18.19,57.51,2.32,Loamy,Flowering,30.98,89.75,1.89,Yes
+2024-11-06,Uttar Pradesh,75.34,139.1,2.2,Sandy Loam,Panicle Initiation,29.73,67.43,1.39,No
+2024-09-19,Uttar Pradesh,73.02,2.6,6.03,Loamy,Maturity,35.65,40.09,1.9,Yes
+2024-09-02,Uttar Pradesh,82.49,170.54,5.07,Sandy Loam,Tillering,27.27,61.74,1.86,No
+2024-11-12,Uttar Pradesh,43.33,69.79,4.64,Loamy,Tillering,26.34,61.34,2.94,No
+2024-06-10,Uttar Pradesh,37.34,9.84,6.63,Loamy,Tillering,33.36,93.85,1.89,Yes
+2024-08-31,Uttar Pradesh,25.25,150.38,2.34,Sandy Loam,Panicle Initiation,23.71,43.7,1.99,Yes
+2024-06-23,Uttar Pradesh,85.02,38.98,4.61,Loamy,Panicle Initiation,31.46,62.82,2.75,No
+2024-10-09,Uttar Pradesh,52.74,42.48,3.66,Sandy Loam,Maturity,33.0,67.82,2.56,No
+2024-11-13,Uttar Pradesh,64.21,36.05,2.2,Loamy,Maturity,25.09,81.83,2.89,No
+2024-06-08,Uttar Pradesh,89.24,123.06,2.87,Clayey,Tillering,23.87,47.75,2.86,No
+2024-08-15,Uttar Pradesh,34.28,28.22,4.7,Clayey,Maturity,37.24,58.81,0.73,No
+2024-10-03,Uttar Pradesh,87.91,130.71,4.15,Loamy,Tillering,26.45,58.31,0.93,No
+2024-08-17,Uttar Pradesh,63.85,64.7,4.08,Loamy,Maturity,24.94,60.02,1.63,No
+2024-08-17,Uttar Pradesh,42.04,112.83,5.84,Sandy Loam,Maturity,24.65,80.01,2.91,No
+2024-09-06,Uttar Pradesh,10.16,135.52,3.62,Loamy,Tillering,35.25,75.32,0.83,Yes
+2024-06-25,Uttar Pradesh,20.47,151.26,4.98,Sandy Loam,Panicle Initiation,32.79,50.93,1.07,Yes
+2024-09-10,Uttar Pradesh,84.81,104.17,2.56,Clayey,Panicle Initiation,28.81,69.89,2.63,No
+2024-09-07,Uttar Pradesh,27.39,39.93,4.74,Clayey,Flowering,36.95,63.4,1.26,Yes
+2024-07-21,Uttar Pradesh,54.36,50.76,3.59,Sandy Loam,Panicle Initiation,34.96,58.54,1.99,No
+2024-08-12,Uttar Pradesh,11.14,186.9,6.56,Loamy,Panicle Initiation,35.99,55.57,2.69,Yes
+2024-08-02,Uttar Pradesh,55.02,96.72,3.95,Loamy,Maturity,31.51,63.51,1.39,No
+2024-09-27,Uttar Pradesh,26.87,103.67,2.41,Loamy,Flowering,36.37,49.15,1.7,Yes
+2024-08-08,Uttar Pradesh,53.53,185.65,5.99,Loamy,Panicle Initiation,30.84,51.87,2.83,No
+2024-10-19,Uttar Pradesh,33.37,60.42,2.42,Loamy,Flowering,24.65,50.97,0.58,No
+2024-11-20,Uttar Pradesh,82.67,184.16,2.14,Clayey,Tillering,30.78,45.06,1.11,No
+2024-07-06,Uttar Pradesh,82.29,169.17,4.37,Clayey,Tillering,23.53,47.95,2.23,No
+2024-10-27,Uttar Pradesh,26.07,166.53,4.45,Clayey,Tillering,23.07,67.58,1.26,Yes
+2024-11-16,Uttar Pradesh,77.84,170.2,4.44,Sandy Loam,Tillering,25.67,84.38,1.08,No
+2024-06-28,Uttar Pradesh,76.58,11.47,4.4,Clayey,Tillering,30.77,60.83,2.67,No
+2024-10-31,Uttar Pradesh,88.89,104.23,5.4,Sandy Loam,Flowering,32.72,76.2,2.49,No
+2024-09-20,Uttar Pradesh,39.94,6.07,2.97,Sandy Loam,Tillering,34.52,68.1,2.01,No
+2024-10-09,Uttar Pradesh,37.75,99.77,4.33,Clayey,Tillering,28.81,46.75,0.69,No
+2024-08-09,Uttar Pradesh,73.45,8.64,3.23,Sandy Loam,Tillering,26.68,62.31,2.34,No
+2024-07-13,Uttar Pradesh,51.2,29.93,5.86,Loamy,Tillering,30.69,78.3,0.6,Yes
+2024-11-25,Uttar Pradesh,63.66,85.74,2.03,Clayey,Flowering,34.36,62.75,1.81,No
+2024-10-19,Uttar Pradesh,84.42,192.22,4.21,Clayey,Panicle Initiation,33.91,51.93,2.32,No
+2024-07-23,Uttar Pradesh,53.65,95.12,6.74,Loamy,Maturity,28.23,56.18,2.27,No
+2024-09-14,Uttar Pradesh,40.44,162.11,6.29,Loamy,Flowering,24.14,60.93,1.08,No
+2024-07-16,Uttar Pradesh,80.27,4.64,3.3,Sandy Loam,Panicle Initiation,37.26,48.99,0.54,No
+2024-11-25,Uttar Pradesh,52.5,69.68,3.39,Sandy Loam,Flowering,28.52,65.17,2.76,No
+2024-07-20,Uttar Pradesh,44.42,57.13,2.74,Clayey,Flowering,29.39,41.58,2.01,No
+2024-06-22,Uttar Pradesh,46.72,194.54,4.48,Clayey,Flowering,22.4,45.15,2.21,No
+2024-11-12,Uttar Pradesh,69.88,28.05,3.12,Sandy Loam,Tillering,29.95,60.44,2.76,No
+2024-10-26,Uttar Pradesh,83.36,51.63,6.12,Loamy,Panicle Initiation,28.01,89.93,1.92,No
+2024-06-29,Uttar Pradesh,38.41,170.59,5.24,Clayey,Panicle Initiation,36.8,61.0,2.2,No
+2024-06-23,Uttar Pradesh,19.58,78.42,4.51,Sandy Loam,Maturity,24.75,56.71,1.42,Yes
+2024-06-23,Uttar Pradesh,53.86,10.57,4.01,Loamy,Maturity,26.94,42.8,0.99,No
+2024-10-26,Uttar Pradesh,88.24,179.23,4.12,Clayey,Maturity,28.94,94.78,2.11,No
+2024-07-31,Uttar Pradesh,82.99,98.13,4.56,Sandy Loam,Maturity,32.05,70.23,2.73,No
+2024-09-29,Uttar Pradesh,40.91,152.55,6.98,Sandy Loam,Maturity,28.46,92.78,1.51,No
+2024-08-07,Uttar Pradesh,23.53,45.87,4.3,Loamy,Maturity,24.81,78.46,2.06,Yes
+2024-07-23,Uttar Pradesh,42.95,28.34,2.04,Sandy Loam,Maturity,23.13,40.21,1.61,No
+2024-08-24,Uttar Pradesh,47.42,37.4,6.54,Sandy Loam,Flowering,33.01,66.9,2.0,Yes
+2024-09-03,Uttar Pradesh,48.81,197.85,3.67,Clayey,Maturity,30.79,94.93,0.69,No
+2024-08-22,Uttar Pradesh,70.1,149.36,4.2,Sandy Loam,Maturity,33.78,90.66,1.47,No
+2024-08-28,Uttar Pradesh,14.43,66.09,5.77,Clayey,Maturity,29.97,71.45,0.56,Yes
+2024-08-11,Uttar Pradesh,24.92,36.47,6.73,Loamy,Maturity,32.12,47.29,1.91,Yes
+2024-10-19,Uttar Pradesh,33.49,0.74,3.53,Sandy Loam,Maturity,30.95,45.68,1.05,No
+2024-08-27,Uttar Pradesh,57.46,24.03,6.46,Loamy,Flowering,28.26,62.19,1.41,Yes
+2024-08-09,Uttar Pradesh,49.01,54.09,3.66,Sandy Loam,Panicle Initiation,30.03,83.47,1.37,No
+2024-08-13,Uttar Pradesh,82.38,94.38,5.87,Sandy Loam,Maturity,24.6,55.86,2.18,No
+2024-08-08,Uttar Pradesh,19.37,50.86,6.61,Sandy Loam,Tillering,22.33,76.88,0.53,Yes
+2024-08-21,Uttar Pradesh,58.26,26.56,6.39,Clayey,Maturity,28.96,44.82,2.33,Yes
+2024-10-05,Uttar Pradesh,35.91,44.87,3.55,Clayey,Maturity,22.67,64.78,2.32,No
+2024-06-24,Uttar Pradesh,51.46,148.86,3.18,Sandy Loam,Panicle Initiation,35.02,45.74,1.56,No
+2024-11-09,Uttar Pradesh,15.51,6.47,4.35,Sandy Loam,Maturity,22.06,58.98,2.3,Yes
+2024-09-07,Uttar Pradesh,72.03,12.96,6.29,Loamy,Panicle Initiation,30.13,82.07,1.11,Yes
+2024-11-21,Uttar Pradesh,88.18,23.98,6.1,Clayey,Panicle Initiation,36.34,41.6,1.93,Yes
+2024-07-28,Uttar Pradesh,22.47,168.59,5.77,Clayey,Panicle Initiation,35.69,43.08,0.85,Yes
+2024-10-02,Uttar Pradesh,85.17,166.81,6.18,Loamy,Maturity,28.19,47.57,1.47,No
+2024-07-02,Uttar Pradesh,59.9,26.09,4.17,Sandy Loam,Tillering,22.95,73.54,1.99,No
+2024-06-03,Uttar Pradesh,40.68,124.13,6.64,Loamy,Maturity,34.38,58.24,2.5,No
+2024-10-08,Uttar Pradesh,11.97,15.75,6.45,Loamy,Flowering,25.73,52.63,1.83,Yes
+2024-07-20,Uttar Pradesh,10.84,191.07,2.22,Loamy,Flowering,31.03,63.46,2.53,Yes
+2024-08-28,Uttar Pradesh,20.74,115.74,4.93,Clayey,Maturity,36.63,43.27,1.28,Yes
+2024-06-29,Uttar Pradesh,86.28,0.96,6.37,Clayey,Tillering,37.55,71.1,2.33,Yes
+2024-09-08,Uttar Pradesh,72.64,80.4,4.39,Clayey,Maturity,29.7,67.84,1.4,No
+2024-10-27,Uttar Pradesh,17.47,182.07,2.13,Sandy Loam,Flowering,33.62,63.98,2.24,Yes
+2024-10-02,Uttar Pradesh,63.12,161.55,3.44,Clayey,Flowering,33.52,71.63,0.6,No
+2024-08-06,Uttar Pradesh,71.78,7.12,2.47,Clayey,Tillering,36.14,85.13,0.67,No
+2024-11-21,Uttar Pradesh,84.58,21.35,5.13,Clayey,Panicle Initiation,27.4,60.97,2.27,Yes
+2024-10-17,Uttar Pradesh,81.96,188.55,3.73,Clayey,Tillering,35.98,48.19,1.6,No
+2024-10-29,Uttar Pradesh,64.62,69.22,5.54,Clayey,Tillering,35.52,54.14,1.15,No
+2024-11-06,Uttar Pradesh,81.16,81.65,2.93,Loamy,Flowering,36.42,72.79,2.23,No
+2024-10-28,Uttar Pradesh,83.25,92.66,6.51,Loamy,Flowering,22.19,79.25,2.37,No
+2024-07-18,Uttar Pradesh,41.61,107.99,6.07,Loamy,Panicle Initiation,26.91,67.12,1.01,No
+2024-06-11,Uttar Pradesh,25.35,83.4,3.72,Loamy,Tillering,26.29,48.31,1.32,Yes
+2024-08-21,Uttar Pradesh,31.46,163.86,6.4,Loamy,Maturity,33.19,70.75,2.2,No
+2024-07-31,Uttar Pradesh,45.64,67.53,3.02,Loamy,Panicle Initiation,29.03,89.64,1.94,No
+2024-06-16,Uttar Pradesh,56.68,135.7,6.56,Loamy,Panicle Initiation,23.36,89.26,2.52,No
+2024-06-13,Uttar Pradesh,65.03,15.05,4.42,Sandy Loam,Panicle Initiation,24.82,45.3,0.55,No
+2024-07-12,Uttar Pradesh,23.43,172.58,4.46,Sandy Loam,Flowering,32.21,81.3,2.57,Yes
+2024-11-21,Uttar Pradesh,77.76,166.37,4.81,Clayey,Tillering,36.23,59.57,2.47,No
+2024-11-15,Uttar Pradesh,18.01,160.25,3.01,Clayey,Maturity,37.17,50.16,0.5,Yes
+2024-07-13,Uttar Pradesh,64.96,12.51,3.12,Loamy,Panicle Initiation,29.3,88.88,1.31,No
+2024-08-11,Uttar Pradesh,36.12,7.2,6.61,Sandy Loam,Maturity,33.82,60.59,1.86,Yes
+2024-11-02,Uttar Pradesh,72.06,129.44,2.05,Clayey,Tillering,33.93,89.79,1.65,No
+2024-10-15,Uttar Pradesh,22.92,69.86,5.76,Loamy,Tillering,31.33,75.66,1.8,Yes
+2024-06-30,Uttar Pradesh,16.31,133.2,2.91,Clayey,Flowering,36.31,72.96,2.52,Yes
+2024-09-08,Uttar Pradesh,43.62,32.01,5.55,Clayey,Maturity,26.36,81.83,0.52,Yes
+2024-10-16,Uttar Pradesh,87.51,73.91,4.96,Clayey,Maturity,27.07,59.13,1.35,No
+2024-11-01,Uttar Pradesh,20.14,123.38,6.5,Clayey,Tillering,35.29,51.03,0.59,Yes
+2024-06-28,Uttar Pradesh,79.08,137.24,3.24,Loamy,Tillering,26.64,55.59,1.67,No
+2024-09-04,Uttar Pradesh,79.91,153.75,4.15,Sandy Loam,Tillering,30.88,66.16,2.91,No
+2024-07-14,Uttar Pradesh,87.33,153.17,5.28,Loamy,Tillering,28.74,45.99,1.9,No
+2024-08-18,Uttar Pradesh,27.48,41.26,4.52,Loamy,Flowering,31.16,93.81,0.7,Yes
+2024-11-26,Uttar Pradesh,73.35,79.05,6.38,Sandy Loam,Maturity,30.49,54.84,0.67,No
+2024-08-01,Uttar Pradesh,19.31,1.99,3.47,Loamy,Flowering,25.76,76.28,0.93,Yes
+2024-07-06,Uttar Pradesh,81.97,52.15,6.06,Sandy Loam,Maturity,36.11,45.09,2.45,No
+2024-08-22,Uttar Pradesh,38.51,137.98,6.2,Clayey,Maturity,37.69,94.26,2.76,No
+2024-07-10,Uttar Pradesh,60.46,173.39,5.25,Loamy,Maturity,37.55,89.57,0.93,No
+2024-11-01,Uttar Pradesh,39.51,117.46,2.5,Sandy Loam,Flowering,33.85,86.33,0.93,No
+2024-06-16,Uttar Pradesh,12.59,145.65,3.05,Sandy Loam,Flowering,36.08,72.5,2.66,Yes
+2024-06-23,Uttar Pradesh,19.19,80.73,6.57,Sandy Loam,Flowering,22.4,58.44,1.81,Yes
+2024-08-21,Uttar Pradesh,88.53,91.74,3.31,Loamy,Panicle Initiation,30.82,78.08,1.8,No
+2024-09-04,Uttar Pradesh,64.58,155.11,5.72,Sandy Loam,Panicle Initiation,27.25,82.24,1.06,No
+2024-11-05,Uttar Pradesh,80.48,116.65,5.0,Loamy,Flowering,35.69,86.56,0.95,No
+2024-07-03,Uttar Pradesh,79.37,44.47,2.46,Loamy,Flowering,25.85,57.52,0.6,No
+2024-07-24,Uttar Pradesh,75.13,44.73,4.44,Clayey,Flowering,30.12,46.17,1.83,No
+2024-08-18,Uttar Pradesh,75.3,128.19,2.32,Sandy Loam,Maturity,22.88,52.72,0.62,No
+2024-09-10,Uttar Pradesh,21.1,106.58,6.68,Clayey,Flowering,25.01,93.92,1.88,Yes
+2024-11-06,Uttar Pradesh,67.52,199.02,4.23,Loamy,Flowering,22.46,58.48,2.22,No
+2024-11-13,Uttar Pradesh,68.98,28.64,5.71,Sandy Loam,Tillering,34.98,86.05,2.43,Yes
+2024-06-22,Uttar Pradesh,49.14,163.07,3.02,Clayey,Maturity,35.22,93.38,2.63,No
+2024-06-25,Uttar Pradesh,21.19,42.58,6.93,Sandy Loam,Flowering,22.09,89.14,1.9,Yes
+2024-09-05,Uttar Pradesh,71.72,74.95,5.98,Sandy Loam,Tillering,23.18,47.22,1.01,No
+2024-07-26,Uttar Pradesh,55.43,150.29,5.69,Clayey,Tillering,29.13,45.24,2.99,No
+2024-08-14,Uttar Pradesh,79.93,34.62,3.59,Clayey,Maturity,32.52,74.68,0.71,No
+2024-09-13,Uttar Pradesh,72.27,15.34,6.13,Loamy,Panicle Initiation,25.27,93.31,0.78,Yes
+2024-09-03,Uttar Pradesh,70.67,172.78,5.79,Sandy Loam,Flowering,27.11,66.64,2.6,No
+2024-10-15,Uttar Pradesh,83.77,96.0,4.64,Sandy Loam,Tillering,35.35,78.54,0.86,No
+2024-06-02,Uttar Pradesh,75.3,46.1,5.7,Clayey,Panicle Initiation,26.88,47.17,1.73,Yes
+2024-07-06,Uttar Pradesh,12.91,73.34,3.02,Loamy,Maturity,28.9,42.51,2.19,Yes
+2024-06-22,Uttar Pradesh,71.88,49.26,6.06,Sandy Loam,Flowering,23.49,46.74,1.56,Yes
+2024-11-02,Uttar Pradesh,60.9,19.19,5.99,Loamy,Tillering,26.49,78.51,1.96,Yes
+2024-11-11,Uttar Pradesh,76.9,53.53,2.41,Sandy Loam,Tillering,24.91,68.2,1.73,No
+2024-09-11,Uttar Pradesh,19.65,128.73,5.47,Clayey,Maturity,32.18,73.32,2.83,Yes
+2024-08-05,Uttar Pradesh,82.63,191.71,3.34,Sandy Loam,Maturity,34.49,75.6,2.03,No
+2024-10-28,Uttar Pradesh,45.92,0.81,5.08,Loamy,Panicle Initiation,23.09,88.08,2.94,Yes
+2024-06-20,Uttar Pradesh,61.68,113.99,3.73,Sandy Loam,Maturity,32.13,50.46,2.14,No
+2024-08-26,Uttar Pradesh,82.44,36.63,6.42,Loamy,Tillering,26.5,78.58,1.63,Yes
+2024-07-13,Uttar Pradesh,73.24,74.39,2.58,Clayey,Panicle Initiation,32.71,87.82,0.53,No
+2024-06-25,Uttar Pradesh,55.01,191.58,2.24,Sandy Loam,Flowering,36.66,56.74,2.59,No
+2024-07-27,Uttar Pradesh,45.93,162.61,2.31,Sandy Loam,Panicle Initiation,25.28,88.37,0.64,No
+2024-09-21,Uttar Pradesh,51.79,47.79,2.33,Loamy,Panicle Initiation,29.73,43.67,1.63,No
+2024-11-18,Uttar Pradesh,61.27,188.97,3.0,Sandy Loam,Flowering,29.91,60.89,1.62,No
+2024-09-24,Uttar Pradesh,20.45,140.12,4.98,Sandy Loam,Flowering,22.47,81.18,2.72,Yes
+2024-07-29,Uttar Pradesh,71.23,142.18,5.08,Clayey,Tillering,32.75,75.52,1.75,No
+2024-09-08,Uttar Pradesh,27.35,110.21,3.21,Clayey,Flowering,30.17,78.02,2.93,Yes
+2024-09-06,Uttar Pradesh,47.09,25.0,2.85,Loamy,Maturity,24.75,43.85,2.08,No
+2024-06-17,Uttar Pradesh,49.68,32.0,2.44,Clayey,Tillering,27.85,55.25,2.81,No
+2024-10-21,Uttar Pradesh,82.87,18.1,6.92,Sandy Loam,Maturity,26.97,94.75,2.34,Yes
+2024-11-20,Uttar Pradesh,78.79,113.22,5.76,Sandy Loam,Flowering,27.27,51.31,0.52,No
+2024-11-19,Uttar Pradesh,85.24,94.14,5.58,Sandy Loam,Flowering,25.95,74.26,0.56,No
+2024-11-27,Uttar Pradesh,58.38,47.18,4.66,Clayey,Tillering,24.22,57.88,2.52,No
+2024-08-26,Uttar Pradesh,89.37,196.67,5.67,Sandy Loam,Tillering,32.66,53.73,2.52,No
+2024-09-19,Uttar Pradesh,88.72,104.56,3.08,Clayey,Maturity,22.04,48.72,2.17,No
+2024-08-13,Uttar Pradesh,75.47,25.68,2.42,Clayey,Panicle Initiation,34.35,84.9,0.93,No
+2024-06-20,Uttar Pradesh,76.73,35.78,6.04,Clayey,Panicle Initiation,30.91,67.66,1.73,Yes
+2024-10-04,Uttar Pradesh,13.61,79.61,6.89,Sandy Loam,Panicle Initiation,29.59,78.07,2.47,Yes
+2024-07-21,Uttar Pradesh,32.57,46.3,3.25,Loamy,Panicle Initiation,34.31,55.76,2.26,No
+2024-08-20,Uttar Pradesh,86.26,40.86,4.45,Clayey,Tillering,33.8,72.84,1.41,No
+2024-06-21,Uttar Pradesh,29.04,121.32,6.73,Sandy Loam,Maturity,30.72,92.03,0.56,Yes
+2024-06-26,Uttar Pradesh,71.77,64.54,5.8,Clayey,Maturity,31.2,56.03,2.15,No
+2024-06-28,Uttar Pradesh,49.5,90.76,5.02,Loamy,Panicle Initiation,26.43,62.62,0.59,No
+2024-10-12,Uttar Pradesh,71.64,65.73,3.1,Loamy,Panicle Initiation,23.99,48.32,2.6,No
+2024-11-04,Uttar Pradesh,65.43,136.24,6.99,Clayey,Panicle Initiation,37.44,49.36,1.57,No
+2024-08-23,Uttar Pradesh,27.67,188.96,3.52,Clayey,Flowering,33.15,67.68,2.8,Yes
+2024-10-13,Uttar Pradesh,23.19,134.14,4.74,Sandy Loam,Flowering,29.53,57.45,2.33,Yes
+2024-06-04,Uttar Pradesh,27.78,189.73,5.97,Clayey,Tillering,37.37,57.29,1.65,Yes
+2024-10-04,Uttar Pradesh,46.81,103.02,6.48,Loamy,Flowering,33.97,75.07,0.79,No
+2024-06-18,Uttar Pradesh,20.16,173.79,4.6,Loamy,Tillering,28.47,84.63,2.14,Yes
+2024-08-04,Uttar Pradesh,48.39,19.27,3.41,Sandy Loam,Maturity,34.53,91.85,2.97,No
+2024-06-30,Uttar Pradesh,42.52,169.39,5.63,Sandy Loam,Panicle Initiation,31.06,53.79,2.94,No
+2024-07-12,Uttar Pradesh,87.88,162.57,6.13,Loamy,Maturity,30.82,57.53,2.54,No
+2024-10-25,Uttar Pradesh,59.47,189.15,6.39,Clayey,Panicle Initiation,29.03,88.43,1.42,No
+2024-09-29,Uttar Pradesh,45.48,43.16,2.13,Sandy Loam,Panicle Initiation,24.76,63.97,2.88,No
+2024-06-03,Uttar Pradesh,35.46,35.58,4.77,Loamy,Panicle Initiation,29.94,77.3,1.87,No
+2024-11-05,Uttar Pradesh,84.54,46.31,3.91,Sandy Loam,Flowering,35.81,67.43,0.89,No
+2024-10-04,Uttar Pradesh,27.49,46.19,3.93,Loamy,Tillering,29.97,89.09,1.23,Yes
+2024-06-22,Uttar Pradesh,83.8,116.67,2.16,Loamy,Flowering,33.69,67.64,1.24,No
+2024-07-30,Uttar Pradesh,40.84,104.68,3.35,Loamy,Panicle Initiation,22.68,84.08,2.8,No
+2024-08-15,Uttar Pradesh,56.12,2.67,3.46,Clayey,Panicle Initiation,35.22,47.98,0.76,No
+2024-07-03,Uttar Pradesh,46.74,197.15,5.4,Sandy Loam,Maturity,29.64,78.88,0.62,No
+2024-10-23,Uttar Pradesh,72.78,141.32,5.9,Sandy Loam,Tillering,27.78,91.86,1.59,No
+2024-11-27,Uttar Pradesh,61.29,17.31,2.66,Clayey,Tillering,22.06,92.91,2.78,No
+2024-11-07,Uttar Pradesh,66.82,150.97,2.27,Loamy,Tillering,28.65,66.97,2.85,No
+2024-07-08,Uttar Pradesh,86.04,67.79,6.86,Sandy Loam,Tillering,22.26,47.63,2.79,No
+2024-07-08,Uttar Pradesh,32.84,14.36,2.76,Sandy Loam,Maturity,37.14,91.82,0.84,No
+2024-09-16,Uttar Pradesh,34.37,59.45,4.8,Sandy Loam,Flowering,35.67,54.02,2.49,No
+2024-07-30,Uttar Pradesh,21.63,98.37,6.33,Sandy Loam,Tillering,30.0,86.02,1.66,Yes
+2024-06-04,Uttar Pradesh,77.73,85.96,4.73,Sandy Loam,Tillering,30.16,73.73,1.24,No
+2024-06-09,Uttar Pradesh,71.3,31.22,3.17,Clayey,Panicle Initiation,33.56,68.77,2.14,No
+2024-07-16,Uttar Pradesh,76.61,109.5,4.8,Clayey,Panicle Initiation,31.17,48.06,2.52,No
+2024-09-30,Uttar Pradesh,48.23,50.66,5.71,Clayey,Panicle Initiation,23.03,93.12,2.54,No
+2024-07-07,Uttar Pradesh,57.36,70.06,2.04,Loamy,Panicle Initiation,30.66,78.66,2.84,No
+2024-08-14,Uttar Pradesh,80.35,109.89,6.15,Sandy Loam,Maturity,32.57,68.21,2.95,No
+2024-10-04,Uttar Pradesh,54.41,31.87,4.53,Clayey,Flowering,34.2,52.82,2.45,No
+2024-07-27,Uttar Pradesh,45.05,15.87,6.85,Loamy,Tillering,27.92,59.82,0.5,Yes
+2024-08-15,Uttar Pradesh,84.67,136.2,6.34,Loamy,Tillering,36.41,92.75,2.69,No
+2024-09-13,Uttar Pradesh,44.62,138.96,4.83,Clayey,Maturity,36.53,44.42,2.19,No
+2024-10-30,Uttar Pradesh,85.7,37.94,5.34,Loamy,Maturity,28.39,73.95,0.71,Yes
+2024-09-22,Uttar Pradesh,45.85,55.52,5.94,Loamy,Maturity,24.82,65.14,2.32,No
+2024-07-25,Uttar Pradesh,35.22,25.06,6.79,Clayey,Maturity,30.82,67.86,1.27,Yes
+2024-06-19,Uttar Pradesh,49.0,107.04,5.31,Sandy Loam,Tillering,33.81,93.82,1.82,No
+2024-07-16,Uttar Pradesh,36.33,159.16,5.31,Loamy,Maturity,36.63,43.6,1.94,No
+2024-10-25,Uttar Pradesh,56.67,119.97,6.66,Sandy Loam,Panicle Initiation,31.12,80.02,2.06,No
+2024-10-02,Uttar Pradesh,18.25,74.4,3.22,Sandy Loam,Panicle Initiation,30.0,87.36,1.47,Yes
+2024-10-17,Uttar Pradesh,83.37,110.38,2.28,Loamy,Flowering,26.26,80.18,0.99,No
+2024-11-12,Uttar Pradesh,11.25,190.37,6.11,Sandy Loam,Flowering,23.33,76.74,1.72,Yes
+2024-10-03,Uttar Pradesh,31.82,143.35,2.74,Sandy Loam,Maturity,26.24,67.14,2.78,No
+2024-11-21,Uttar Pradesh,87.38,155.99,2.74,Loamy,Maturity,31.47,72.94,2.44,No
+2024-06-27,Uttar Pradesh,77.73,55.39,6.75,Clayey,Panicle Initiation,36.46,60.83,1.36,No
+2024-11-09,Uttar Pradesh,34.14,4.27,6.44,Loamy,Tillering,23.32,77.86,1.11,Yes
+2024-06-06,Uttar Pradesh,83.0,37.65,4.22,Loamy,Tillering,29.33,78.37,0.54,No
+2024-10-10,Uttar Pradesh,43.46,198.23,2.46,Loamy,Panicle Initiation,26.69,66.34,1.08,No
+2024-10-19,Uttar Pradesh,23.71,61.05,6.44,Sandy Loam,Panicle Initiation,27.97,89.62,2.0,Yes
+2024-11-01,Uttar Pradesh,67.13,61.19,2.16,Clayey,Panicle Initiation,36.18,85.21,2.11,No
+2024-08-07,Uttar Pradesh,42.18,49.06,2.66,Clayey,Flowering,33.29,78.15,1.29,No
+2024-10-15,Uttar Pradesh,64.37,64.91,2.62,Loamy,Tillering,34.75,80.23,2.21,No
+2024-06-16,Uttar Pradesh,85.61,127.55,5.37,Clayey,Maturity,28.53,79.06,1.28,No
+2024-06-07,Uttar Pradesh,64.87,115.81,2.78,Sandy Loam,Tillering,26.21,66.33,1.88,No
+2024-10-18,Uttar Pradesh,28.84,165.87,5.2,Loamy,Maturity,37.43,72.09,2.72,Yes
+2024-07-08,Uttar Pradesh,33.36,84.7,5.1,Loamy,Flowering,36.84,56.05,2.22,No
+2024-06-07,Uttar Pradesh,39.2,106.69,4.23,Sandy Loam,Maturity,30.46,42.15,1.27,No
+2024-10-06,Uttar Pradesh,49.91,29.02,3.71,Sandy Loam,Maturity,34.92,93.04,1.66,No
+2024-11-16,Uttar Pradesh,63.11,31.96,6.6,Clayey,Tillering,29.25,85.92,1.73,Yes
+2024-10-03,Uttar Pradesh,52.61,174.18,5.37,Sandy Loam,Maturity,32.32,42.19,1.19,No
+2024-08-01,Uttar Pradesh,30.08,152.86,5.91,Sandy Loam,Maturity,27.23,54.83,1.5,No
+2024-10-23,Uttar Pradesh,46.33,156.25,5.83,Loamy,Panicle Initiation,35.58,67.95,1.19,No
+2024-09-28,Uttar Pradesh,71.78,94.56,6.38,Sandy Loam,Tillering,31.88,46.33,1.87,No
+2024-07-18,Uttar Pradesh,42.06,94.85,2.99,Loamy,Panicle Initiation,34.48,51.82,1.87,No
+2024-11-17,Uttar Pradesh,65.64,130.64,4.84,Sandy Loam,Panicle Initiation,37.21,58.95,2.14,No
+2024-06-03,Uttar Pradesh,56.71,198.63,2.35,Loamy,Panicle Initiation,36.44,45.76,0.76,No
+2024-11-11,Uttar Pradesh,44.01,130.63,5.25,Loamy,Panicle Initiation,34.37,82.1,1.79,No
+2024-10-10,Uttar Pradesh,71.83,49.92,5.91,Clayey,Tillering,35.0,82.28,2.6,Yes
+2024-11-15,Uttar Pradesh,67.12,57.42,2.26,Loamy,Flowering,30.61,79.88,0.78,No
+2024-07-08,Uttar Pradesh,44.04,80.79,3.29,Clayey,Tillering,25.94,83.86,0.51,No
+2024-11-28,Uttar Pradesh,58.51,172.42,5.85,Clayey,Tillering,29.02,64.04,0.56,No
+2024-08-06,Uttar Pradesh,24.26,17.28,6.15,Clayey,Maturity,24.6,85.15,2.85,Yes
+2024-06-30,Uttar Pradesh,66.55,81.25,3.91,Clayey,Flowering,35.81,49.63,1.48,No
+2024-07-25,Uttar Pradesh,59.86,199.67,6.13,Sandy Loam,Flowering,27.89,40.35,2.36,No
+2024-10-11,Uttar Pradesh,18.45,17.08,5.85,Sandy Loam,Tillering,28.55,79.08,2.48,Yes
+2024-10-07,Uttar Pradesh,17.47,146.21,4.64,Clayey,Tillering,33.47,88.19,1.23,Yes
+2024-09-30,Uttar Pradesh,16.9,156.59,3.6,Loamy,Flowering,32.45,76.53,2.69,Yes
+2024-06-04,Uttar Pradesh,88.02,68.55,6.11,Clayey,Tillering,24.42,64.6,2.67,No
+2024-08-09,Uttar Pradesh,57.96,198.29,2.12,Clayey,Maturity,33.04,75.26,1.31,No
+2024-09-19,Uttar Pradesh,20.59,103.89,4.93,Loamy,Flowering,23.49,87.81,1.6,Yes
+2024-09-18,Uttar Pradesh,10.84,115.82,4.1,Sandy Loam,Flowering,36.56,86.18,1.31,Yes
+2024-09-06,Uttar Pradesh,70.37,116.48,5.36,Sandy Loam,Maturity,32.74,70.84,2.56,No
+2024-07-28,Uttar Pradesh,12.94,195.75,2.34,Clayey,Maturity,29.23,51.06,0.77,Yes
+2024-07-10,Uttar Pradesh,72.07,194.16,2.87,Loamy,Maturity,33.01,51.92,1.38,No
+2024-07-15,Uttar Pradesh,80.8,37.44,4.66,Loamy,Maturity,33.28,65.66,1.44,No
+2024-11-02,Uttar Pradesh,28.39,160.14,4.75,Loamy,Panicle Initiation,31.33,62.28,2.1,Yes
+2024-09-16,Uttar Pradesh,24.94,50.93,2.23,Loamy,Flowering,31.22,77.98,2.3,Yes
+2024-11-11,Uttar Pradesh,48.86,96.81,4.47,Loamy,Flowering,33.63,89.18,2.85,No
+2024-09-13,Uttar Pradesh,84.6,34.93,3.4,Clayey,Panicle Initiation,30.47,90.53,1.57,No
+2024-10-16,Uttar Pradesh,22.83,170.18,5.09,Sandy Loam,Tillering,30.06,64.33,1.39,Yes
+2024-06-20,Uttar Pradesh,34.54,142.6,6.74,Sandy Loam,Maturity,35.07,63.57,2.0,No
+2024-09-17,Uttar Pradesh,59.23,77.74,2.6,Loamy,Panicle Initiation,32.71,44.43,1.2,No
+2024-09-23,Uttar Pradesh,75.13,12.8,6.31,Sandy Loam,Maturity,36.01,86.57,1.23,Yes
+2024-07-10,Uttar Pradesh,41.15,71.58,3.03,Clayey,Flowering,31.83,74.2,1.82,No
+2024-10-21,Uttar Pradesh,49.18,23.24,5.38,Clayey,Tillering,28.21,49.64,2.54,Yes
+2024-08-01,Uttar Pradesh,81.52,60.47,5.9,Clayey,Panicle Initiation,25.1,43.94,1.74,No
+2024-07-19,Uttar Pradesh,15.92,126.67,5.75,Clayey,Flowering,27.35,81.75,2.96,Yes
+2024-06-01,Uttar Pradesh,65.26,93.29,6.34,Loamy,Panicle Initiation,30.91,92.88,2.17,No
+2024-08-28,Uttar Pradesh,36.91,171.18,2.95,Loamy,Panicle Initiation,26.07,80.11,2.42,No
+2024-10-10,Uttar Pradesh,17.44,126.51,3.28,Sandy Loam,Tillering,27.78,71.92,2.21,Yes
+2024-10-14,Uttar Pradesh,39.36,41.33,5.77,Clayey,Panicle Initiation,27.27,58.21,1.16,Yes
+2024-09-12,Uttar Pradesh,53.51,131.45,3.65,Sandy Loam,Panicle Initiation,22.55,64.92,1.59,No
+2024-11-28,Uttar Pradesh,17.8,10.95,6.4,Sandy Loam,Maturity,24.36,41.07,1.7,Yes
+2024-11-07,Uttar Pradesh,89.48,95.8,4.36,Clayey,Tillering,28.0,69.59,1.6,No
+2024-07-25,Uttar Pradesh,34.01,143.82,6.07,Clayey,Tillering,35.48,79.88,2.1,No
+2024-06-06,Uttar Pradesh,87.37,110.51,6.59,Clayey,Maturity,37.27,87.17,0.59,No
+2024-08-18,Uttar Pradesh,60.03,6.6,3.07,Sandy Loam,Panicle Initiation,33.4,92.89,2.53,No
+2024-10-02,Uttar Pradesh,23.93,3.47,6.73,Sandy Loam,Panicle Initiation,37.45,47.55,1.2,Yes
+2024-11-06,Uttar Pradesh,84.48,199.44,5.43,Clayey,Panicle Initiation,29.77,77.76,1.04,No
+2024-09-03,Uttar Pradesh,12.49,192.94,4.63,Sandy Loam,Panicle Initiation,34.06,51.21,2.58,Yes
+2024-06-16,Uttar Pradesh,12.4,199.61,4.98,Clayey,Panicle Initiation,26.25,58.59,0.63,Yes
+2024-10-15,Uttar Pradesh,90.0,8.8,3.26,Clayey,Panicle Initiation,32.55,82.72,1.86,No
+2024-08-24,Uttar Pradesh,65.95,3.93,6.8,Clayey,Panicle Initiation,23.83,91.22,1.24,Yes
+2024-11-28,Uttar Pradesh,50.67,44.72,5.34,Sandy Loam,Flowering,26.65,68.92,0.7,Yes
+2024-06-20,Uttar Pradesh,29.79,167.5,2.1,Clayey,Flowering,33.39,81.58,1.74,Yes
+2024-08-01,Uttar Pradesh,12.6,138.54,2.36,Clayey,Flowering,32.63,44.57,1.82,Yes
+2024-11-12,Uttar Pradesh,38.12,115.31,3.28,Clayey,Tillering,37.16,63.15,1.85,No
+2024-08-17,Uttar Pradesh,10.97,132.22,3.26,Clayey,Maturity,31.06,92.91,2.11,Yes
+2024-07-31,Uttar Pradesh,77.25,179.05,4.03,Sandy Loam,Panicle Initiation,34.15,41.33,2.21,No
+2024-11-16,Uttar Pradesh,74.72,115.12,4.42,Clayey,Flowering,30.15,79.09,1.33,No
+2024-10-08,Uttar Pradesh,11.35,125.4,6.73,Loamy,Maturity,37.41,65.68,1.51,Yes
+2024-09-10,Uttar Pradesh,23.59,29.48,4.19,Clayey,Flowering,25.11,83.71,0.57,Yes
+2024-07-21,Uttar Pradesh,25.15,154.63,6.81,Loamy,Tillering,35.24,76.56,0.8,Yes
+2024-06-20,Uttar Pradesh,81.24,26.27,6.82,Sandy Loam,Flowering,31.02,40.83,0.68,Yes
+2024-11-18,Uttar Pradesh,18.14,105.51,6.45,Clayey,Tillering,26.77,93.63,1.34,Yes
+2024-09-16,Uttar Pradesh,26.67,70.23,5.15,Loamy,Panicle Initiation,35.5,78.28,2.09,Yes
+2024-06-08,Uttar Pradesh,25.22,145.34,3.05,Sandy Loam,Panicle Initiation,26.21,70.22,2.84,Yes
+2024-08-05,Uttar Pradesh,75.97,105.59,3.67,Loamy,Maturity,25.46,94.59,0.83,No
+2024-06-09,Uttar Pradesh,40.99,67.89,4.98,Sandy Loam,Maturity,31.58,91.27,2.78,No
+2024-07-07,Uttar Pradesh,78.58,136.63,5.73,Loamy,Panicle Initiation,28.6,93.11,2.26,No
+2024-07-02,Uttar Pradesh,87.11,44.87,5.39,Sandy Loam,Tillering,27.45,56.5,0.9,Yes
+2024-10-26,Uttar Pradesh,58.24,46.59,3.71,Clayey,Flowering,22.55,80.79,1.57,No
+2024-10-13,Uttar Pradesh,16.85,40.11,6.55,Loamy,Maturity,22.37,44.18,1.14,Yes
+2024-08-27,Uttar Pradesh,89.81,33.26,5.57,Sandy Loam,Flowering,22.73,65.3,0.99,Yes
+2024-08-17,Uttar Pradesh,12.19,197.55,4.78,Clayey,Tillering,24.5,44.22,1.13,Yes
+2024-08-13,Uttar Pradesh,75.09,53.53,3.91,Sandy Loam,Panicle Initiation,35.61,51.17,1.23,No
+2024-06-27,Uttar Pradesh,13.48,173.01,6.53,Sandy Loam,Flowering,34.29,45.45,1.6,Yes
+2024-11-08,Uttar Pradesh,54.89,66.48,4.43,Sandy Loam,Maturity,30.02,51.48,2.41,No
+2024-09-13,Uttar Pradesh,27.39,188.4,3.3,Loamy,Panicle Initiation,37.64,64.86,2.62,Yes
+2024-06-10,Uttar Pradesh,63.86,58.36,5.32,Loamy,Flowering,30.38,67.18,2.16,No
+2024-07-02,Uttar Pradesh,67.69,194.93,2.36,Clayey,Maturity,28.82,57.46,2.87,No
+2024-09-01,Uttar Pradesh,65.7,114.24,3.31,Sandy Loam,Panicle Initiation,35.81,58.29,0.84,No
+2024-11-14,Uttar Pradesh,38.25,58.9,3.26,Loamy,Panicle Initiation,29.16,45.37,1.54,No
+2024-10-17,Uttar Pradesh,85.64,28.71,3.9,Loamy,Flowering,36.97,78.69,0.93,No
+2024-09-03,Uttar Pradesh,28.79,35.8,6.73,Loamy,Flowering,28.92,75.38,1.24,Yes
+2024-10-30,Uttar Pradesh,85.42,196.79,4.58,Clayey,Tillering,30.5,79.69,1.25,No
+2024-06-05,Uttar Pradesh,62.46,93.81,5.46,Clayey,Panicle Initiation,25.79,59.09,2.7,No
+2024-07-20,Uttar Pradesh,87.72,114.68,4.82,Sandy Loam,Panicle Initiation,31.55,64.91,2.4,No
+2024-09-23,Uttar Pradesh,32.05,193.1,3.15,Loamy,Maturity,30.62,52.18,2.97,No
+2024-11-21,Uttar Pradesh,83.13,80.45,3.44,Clayey,Maturity,27.81,54.0,0.53,No
+2024-06-12,Uttar Pradesh,53.22,191.97,6.32,Clayey,Panicle Initiation,23.83,61.43,2.66,No
+2024-09-03,Uttar Pradesh,38.84,137.77,2.22,Loamy,Panicle Initiation,25.02,85.27,2.87,No
+2024-10-02,Uttar Pradesh,30.96,22.27,3.67,Loamy,Tillering,25.67,77.82,1.54,No
+2024-08-28,Uttar Pradesh,10.38,185.94,4.89,Sandy Loam,Panicle Initiation,26.23,62.72,0.89,Yes
+2024-08-09,Uttar Pradesh,13.56,26.61,5.26,Clayey,Maturity,33.23,77.94,2.32,Yes
+2024-09-06,Uttar Pradesh,35.96,16.0,3.54,Sandy Loam,Maturity,27.94,87.95,2.64,No
+2024-06-15,Uttar Pradesh,14.15,178.72,4.43,Loamy,Panicle Initiation,26.08,88.8,1.16,Yes
+2024-07-15,Uttar Pradesh,19.64,69.72,2.97,Loamy,Panicle Initiation,31.6,71.21,0.71,Yes
+2024-08-24,Uttar Pradesh,53.24,137.36,3.89,Clayey,Flowering,31.71,62.94,1.79,No
+2024-09-02,Uttar Pradesh,80.18,15.4,4.76,Clayey,Panicle Initiation,23.71,74.13,2.11,No
+2024-10-28,Uttar Pradesh,75.23,196.81,3.54,Clayey,Maturity,32.22,75.72,2.54,No
+2024-08-26,Uttar Pradesh,66.62,55.06,6.46,Clayey,Panicle Initiation,36.83,92.29,1.69,No
+2024-07-26,Uttar Pradesh,11.65,32.06,4.89,Loamy,Tillering,35.29,49.56,1.35,Yes
+2024-08-09,Uttar Pradesh,50.96,24.62,5.68,Clayey,Maturity,29.24,41.34,0.66,Yes
+2024-09-07,Uttar Pradesh,80.28,158.74,5.68,Loamy,Maturity,31.97,91.35,1.44,No
+2024-06-20,Uttar Pradesh,87.4,47.28,4.68,Loamy,Flowering,34.21,85.4,2.61,No
+2024-10-18,Uttar Pradesh,70.47,185.25,2.59,Sandy Loam,Panicle Initiation,24.17,41.45,0.79,No
+2024-11-12,Uttar Pradesh,77.49,69.21,3.13,Sandy Loam,Maturity,25.85,44.67,1.07,No
+2024-10-27,Uttar Pradesh,25.04,55.86,4.6,Sandy Loam,Maturity,30.48,58.91,2.97,Yes
+2024-10-01,Uttar Pradesh,15.43,58.31,6.81,Sandy Loam,Maturity,27.26,44.24,1.27,Yes
+2024-09-17,Uttar Pradesh,56.75,12.82,4.4,Sandy Loam,Panicle Initiation,26.6,62.42,2.53,No
+2024-06-17,Uttar Pradesh,69.54,98.09,6.29,Sandy Loam,Panicle Initiation,34.79,49.67,1.49,No
+2024-07-21,Uttar Pradesh,67.12,132.11,2.93,Sandy Loam,Tillering,28.13,52.53,0.66,No
+2024-09-07,Uttar Pradesh,31.83,130.7,5.77,Loamy,Panicle Initiation,36.08,83.82,1.85,No
+2024-10-07,Uttar Pradesh,50.46,157.9,5.86,Sandy Loam,Maturity,36.54,46.45,2.89,No
+2024-09-02,Uttar Pradesh,12.42,184.32,5.73,Sandy Loam,Panicle Initiation,31.89,74.54,1.49,Yes
+2024-08-05,Uttar Pradesh,37.71,36.58,2.89,Loamy,Tillering,35.13,83.32,2.13,No
+2024-10-23,Uttar Pradesh,15.24,60.05,4.05,Sandy Loam,Maturity,28.7,65.57,0.56,Yes
+2024-10-30,Uttar Pradesh,78.8,9.07,6.96,Sandy Loam,Flowering,22.05,60.05,1.93,Yes
+2024-06-07,Uttar Pradesh,19.57,161.28,3.69,Loamy,Flowering,36.53,43.83,2.41,Yes
+2024-10-20,Uttar Pradesh,44.39,184.77,5.5,Loamy,Panicle Initiation,32.08,87.93,1.54,No
+2024-09-10,Uttar Pradesh,10.58,101.08,3.45,Clayey,Tillering,22.61,49.64,0.87,Yes
+2024-07-24,Uttar Pradesh,19.91,90.62,3.4,Clayey,Flowering,24.7,70.34,2.83,Yes
+2024-06-13,Uttar Pradesh,39.31,195.26,5.69,Loamy,Panicle Initiation,30.74,86.32,2.43,No
+2024-09-20,Uttar Pradesh,36.59,19.39,2.88,Clayey,Tillering,27.3,74.43,2.08,No
+2024-09-19,Uttar Pradesh,42.63,173.99,5.53,Sandy Loam,Maturity,28.98,77.73,2.12,No
+2024-06-06,Uttar Pradesh,35.62,108.77,2.92,Loamy,Panicle Initiation,37.3,79.7,0.71,No
+2024-06-26,Uttar Pradesh,80.76,7.53,3.15,Clayey,Flowering,24.62,86.49,2.02,No
+2024-07-29,Uttar Pradesh,57.5,115.83,6.03,Sandy Loam,Flowering,23.99,89.34,2.13,No
+2024-10-23,Uttar Pradesh,86.81,81.34,5.45,Clayey,Tillering,36.12,54.38,1.28,No
+2024-09-01,Uttar Pradesh,63.65,164.12,3.49,Sandy Loam,Flowering,23.37,71.66,0.74,No
+2024-09-05,Uttar Pradesh,79.2,108.73,2.26,Clayey,Tillering,29.66,84.41,0.91,No
+2024-09-28,Uttar Pradesh,25.1,115.49,4.19,Sandy Loam,Maturity,30.02,92.02,1.67,Yes
+2024-11-17,Uttar Pradesh,46.09,82.38,4.59,Loamy,Panicle Initiation,31.4,50.49,1.86,No
+2024-11-24,Uttar Pradesh,85.9,100.42,6.98,Loamy,Panicle Initiation,28.87,89.04,1.0,No
+2024-08-30,Uttar Pradesh,85.56,5.11,3.23,Loamy,Panicle Initiation,37.67,48.72,0.79,No
+2024-06-28,Uttar Pradesh,41.88,15.41,3.02,Loamy,Tillering,32.61,73.69,1.67,No
+2024-07-10,Uttar Pradesh,86.14,85.99,2.69,Clayey,Tillering,22.07,94.91,2.67,No
+2024-08-05,Uttar Pradesh,50.89,59.41,4.68,Loamy,Flowering,28.46,52.19,1.46,No
+2024-08-20,Uttar Pradesh,51.5,45.03,2.74,Clayey,Flowering,26.33,74.84,1.28,No
+2024-10-03,Uttar Pradesh,44.23,121.04,3.27,Loamy,Flowering,25.43,51.04,1.13,No
+2024-07-10,Uttar Pradesh,42.31,79.0,4.53,Clayey,Panicle Initiation,23.68,93.96,2.78,No
+2024-09-22,Uttar Pradesh,26.52,71.24,3.33,Sandy Loam,Panicle Initiation,26.21,53.84,1.43,Yes
+2024-10-06,Uttar Pradesh,58.55,178.14,3.7,Clayey,Flowering,25.61,57.31,2.43,No
+2024-07-25,Uttar Pradesh,71.43,149.48,5.39,Clayey,Tillering,32.89,71.36,0.68,No
+2024-09-19,Uttar Pradesh,57.66,94.21,6.0,Clayey,Panicle Initiation,28.05,40.99,0.86,No
+2024-09-15,Uttar Pradesh,56.07,84.11,3.65,Sandy Loam,Tillering,31.92,59.15,2.8,No
+2024-09-04,Uttar Pradesh,56.66,197.65,6.97,Clayey,Maturity,29.46,64.7,0.86,No
+2024-07-09,Uttar Pradesh,42.19,42.83,3.63,Loamy,Flowering,26.98,42.4,2.78,No
+2024-11-03,Uttar Pradesh,29.62,117.92,4.0,Sandy Loam,Tillering,28.5,42.03,1.85,Yes
+2024-10-10,Uttar Pradesh,79.3,138.51,2.61,Clayey,Maturity,37.92,51.26,2.98,No
+2024-09-24,Uttar Pradesh,87.05,33.04,4.99,Sandy Loam,Flowering,31.83,79.36,1.25,No
+2024-10-12,Uttar Pradesh,70.7,64.23,5.4,Clayey,Tillering,34.44,46.06,2.41,No
+2024-09-21,Uttar Pradesh,25.51,49.46,3.15,Clayey,Tillering,36.37,55.59,2.81,Yes
+2024-06-28,Uttar Pradesh,88.26,87.55,4.08,Loamy,Maturity,29.11,65.22,1.13,No
+2024-08-05,Uttar Pradesh,43.99,115.89,2.93,Loamy,Panicle Initiation,37.54,92.74,1.83,No
+2024-06-28,Uttar Pradesh,66.6,157.1,4.12,Sandy Loam,Tillering,26.94,48.67,2.63,No
+2024-06-21,Uttar Pradesh,38.55,142.77,5.91,Sandy Loam,Panicle Initiation,26.72,54.78,2.54,No
+2024-07-17,Uttar Pradesh,83.31,105.02,2.81,Clayey,Panicle Initiation,28.3,94.36,0.83,No
+2024-11-11,Uttar Pradesh,47.04,198.34,4.18,Clayey,Maturity,28.77,81.95,2.5,No
+2024-06-18,Uttar Pradesh,66.21,120.33,6.45,Sandy Loam,Tillering,34.67,85.94,1.74,No
+2024-09-29,Uttar Pradesh,28.22,164.6,5.3,Clayey,Panicle Initiation,31.31,87.68,1.52,Yes
+2024-11-18,Uttar Pradesh,24.51,92.54,2.16,Clayey,Flowering,29.97,61.48,0.65,Yes
+2024-06-15,Uttar Pradesh,36.93,148.64,2.04,Sandy Loam,Flowering,33.66,41.29,0.7,No
+2024-09-03,Uttar Pradesh,88.99,83.47,2.46,Loamy,Flowering,32.42,90.69,0.59,No
+2024-09-25,Uttar Pradesh,79.25,187.37,5.0,Clayey,Panicle Initiation,29.57,47.59,1.44,No
+2024-09-09,Uttar Pradesh,53.9,81.27,5.14,Clayey,Maturity,35.21,83.09,2.06,No
+2024-11-14,Uttar Pradesh,58.13,57.91,3.04,Clayey,Maturity,37.25,55.03,1.27,No
+2024-11-16,Uttar Pradesh,47.71,184.03,6.11,Loamy,Flowering,23.04,70.06,2.23,No
+2024-10-11,Uttar Pradesh,25.67,140.17,2.7,Sandy Loam,Tillering,34.98,48.0,0.55,Yes
+2024-06-09,Uttar Pradesh,27.86,192.73,4.9,Loamy,Tillering,22.52,60.21,1.88,Yes
+2024-09-05,Uttar Pradesh,40.39,2.17,4.64,Loamy,Panicle Initiation,26.89,47.15,1.52,No
+2024-11-25,Uttar Pradesh,84.25,13.71,4.72,Clayey,Maturity,23.88,68.66,1.15,No
+2024-10-04,Uttar Pradesh,40.73,174.74,2.64,Loamy,Flowering,31.49,60.71,2.04,No
+2024-11-15,Uttar Pradesh,58.93,92.03,4.18,Loamy,Tillering,29.64,56.08,1.1,No
+2024-10-17,Uttar Pradesh,88.86,149.08,4.65,Loamy,Tillering,30.67,57.79,2.53,No
+2024-11-22,Uttar Pradesh,55.08,64.99,6.89,Sandy Loam,Flowering,36.68,51.7,1.03,No
+2024-11-24,Uttar Pradesh,50.72,71.27,5.52,Loamy,Panicle Initiation,33.58,43.96,2.1,No
+2024-07-19,Uttar Pradesh,12.65,167.56,3.25,Clayey,Maturity,37.51,73.45,0.6,Yes
+2024-06-09,Uttar Pradesh,59.86,152.06,6.12,Loamy,Panicle Initiation,37.19,68.58,1.55,No
+2024-09-08,Uttar Pradesh,66.84,114.81,2.53,Clayey,Tillering,31.67,50.68,2.36,No
+2024-08-28,Uttar Pradesh,36.31,48.26,5.07,Loamy,Tillering,26.75,40.52,0.74,Yes
+2024-09-20,Uttar Pradesh,79.48,152.69,5.43,Loamy,Flowering,33.37,61.75,1.11,No
+2024-08-22,Uttar Pradesh,48.12,76.76,6.25,Clayey,Maturity,31.36,82.77,1.73,No
+2024-10-16,Uttar Pradesh,15.18,16.84,6.75,Loamy,Panicle Initiation,36.88,69.02,1.87,Yes
+2024-08-16,Uttar Pradesh,26.08,163.66,4.7,Clayey,Maturity,23.09,63.08,1.7,Yes
+2024-09-20,Uttar Pradesh,82.54,188.12,2.26,Sandy Loam,Tillering,25.47,91.29,1.06,No
+2024-08-15,Uttar Pradesh,21.11,85.77,6.12,Sandy Loam,Tillering,32.3,53.35,2.78,Yes
+2024-08-26,Uttar Pradesh,49.73,28.59,6.67,Sandy Loam,Flowering,27.42,93.48,0.54,Yes
+2024-11-12,Uttar Pradesh,12.65,55.27,6.35,Clayey,Panicle Initiation,32.51,89.02,2.01,Yes
+2024-11-15,Uttar Pradesh,26.55,41.4,4.23,Loamy,Maturity,26.13,60.07,2.76,Yes
+2024-10-24,Uttar Pradesh,43.62,147.93,6.68,Loamy,Flowering,35.43,48.54,1.28,No
+2024-07-11,Uttar Pradesh,24.24,143.16,4.72,Sandy Loam,Flowering,29.21,72.36,0.59,Yes
+2024-09-12,Uttar Pradesh,36.8,169.21,3.5,Clayey,Tillering,29.43,80.57,2.99,No
+2024-11-22,Uttar Pradesh,73.88,142.69,3.14,Clayey,Panicle Initiation,32.97,88.2,1.1,No
+2024-08-07,Uttar Pradesh,81.25,176.05,3.06,Sandy Loam,Flowering,37.34,92.64,2.45,No
+2024-07-22,Uttar Pradesh,17.42,64.26,5.81,Clayey,Flowering,24.92,46.01,1.04,Yes
+2024-11-20,Uttar Pradesh,85.03,35.77,2.74,Clayey,Flowering,34.47,83.22,2.16,No
+2024-10-01,Uttar Pradesh,61.09,44.09,5.31,Clayey,Panicle Initiation,25.68,43.39,2.54,Yes
+2024-08-06,Uttar Pradesh,44.21,51.39,2.87,Loamy,Panicle Initiation,25.56,73.19,2.5,No
+2024-07-18,Uttar Pradesh,37.95,27.01,4.74,Clayey,Flowering,34.04,63.93,0.84,No
+2024-08-05,Uttar Pradesh,72.87,148.38,6.69,Loamy,Tillering,37.12,41.54,0.57,No
+2024-08-14,Uttar Pradesh,11.58,138.52,4.39,Sandy Loam,Maturity,34.06,47.17,1.37,Yes
+2024-06-12,Uttar Pradesh,23.17,193.19,2.83,Loamy,Tillering,22.53,54.44,2.31,Yes
+2024-06-22,Uttar Pradesh,82.59,18.75,3.78,Loamy,Tillering,33.62,74.78,0.75,No
+2024-09-23,Uttar Pradesh,85.76,107.25,2.08,Loamy,Flowering,30.12,87.33,1.77,No
+2024-09-04,Uttar Pradesh,85.6,162.65,4.09,Sandy Loam,Flowering,23.35,58.92,0.83,No
+2024-09-16,Uttar Pradesh,28.16,134.22,4.74,Clayey,Flowering,25.06,60.02,2.21,Yes
+2024-06-08,Uttar Pradesh,63.24,105.1,4.44,Loamy,Panicle Initiation,32.34,42.74,1.09,No
+2024-10-04,Uttar Pradesh,76.56,89.15,5.12,Sandy Loam,Maturity,30.9,40.33,2.33,No
+2024-08-22,Uttar Pradesh,32.86,20.06,5.91,Sandy Loam,Panicle Initiation,35.74,45.49,1.75,Yes
+2024-06-03,Uttar Pradesh,55.62,142.02,3.95,Loamy,Flowering,32.52,42.3,2.33,No
+2024-10-15,Uttar Pradesh,51.28,134.58,4.42,Loamy,Panicle Initiation,26.6,79.38,0.7,No
+2024-10-02,Uttar Pradesh,10.33,188.87,4.89,Clayey,Tillering,37.71,76.04,2.79,Yes
+2024-11-23,Uttar Pradesh,26.54,58.13,4.97,Loamy,Tillering,22.34,83.34,2.49,Yes
+2024-11-19,Uttar Pradesh,87.47,6.7,6.77,Clayey,Panicle Initiation,35.64,60.62,2.79,Yes
+2024-07-26,Uttar Pradesh,37.02,137.27,2.27,Clayey,Flowering,36.67,44.23,1.14,No
+2024-08-22,Uttar Pradesh,82.01,148.92,2.89,Clayey,Panicle Initiation,37.47,73.52,0.91,No
+2024-11-19,Uttar Pradesh,34.65,46.39,5.02,Loamy,Flowering,22.96,84.17,1.47,Yes
+2024-11-25,Uttar Pradesh,89.34,126.66,5.52,Loamy,Panicle Initiation,27.82,41.08,2.76,No
+2024-07-13,Uttar Pradesh,37.84,49.7,4.69,Sandy Loam,Maturity,24.25,72.23,1.45,No
+2024-09-09,Uttar Pradesh,44.37,60.17,4.12,Sandy Loam,Maturity,33.84,50.2,2.36,No
+2024-07-19,Uttar Pradesh,61.9,128.32,5.76,Sandy Loam,Panicle Initiation,25.36,44.16,2.21,No
+2024-08-14,Uttar Pradesh,71.22,151.9,5.18,Clayey,Maturity,30.99,70.01,1.08,No
+2024-09-11,Uttar Pradesh,36.25,68.91,3.29,Sandy Loam,Tillering,32.24,90.28,2.92,No
+2024-09-10,Uttar Pradesh,18.64,132.4,5.45,Loamy,Flowering,37.85,72.8,1.09,Yes
+2024-08-25,Uttar Pradesh,86.71,107.15,5.88,Sandy Loam,Panicle Initiation,29.14,46.29,2.45,No
+2024-06-03,Uttar Pradesh,81.5,81.7,2.09,Sandy Loam,Tillering,37.88,48.38,2.21,No
+2024-09-19,Uttar Pradesh,75.85,10.96,4.17,Loamy,Panicle Initiation,27.57,74.09,0.77,No
+2024-08-04,Uttar Pradesh,19.42,103.04,3.41,Loamy,Flowering,27.58,88.57,1.61,Yes
+2024-11-01,Uttar Pradesh,43.24,13.13,3.98,Loamy,Tillering,23.48,75.03,1.43,No
+2024-10-06,Uttar Pradesh,26.04,20.71,2.48,Clayey,Maturity,27.2,69.25,1.77,Yes
+2024-09-09,Uttar Pradesh,60.87,68.38,5.69,Loamy,Maturity,22.84,54.73,1.38,No
+2024-06-03,Uttar Pradesh,21.31,131.46,5.35,Clayey,Flowering,31.68,69.33,2.44,Yes
+2024-10-16,Uttar Pradesh,12.96,101.32,2.22,Clayey,Maturity,25.53,73.5,1.38,Yes
+2024-11-07,Uttar Pradesh,79.04,112.99,4.62,Loamy,Tillering,29.7,83.28,1.77,No
+2024-06-02,Uttar Pradesh,14.19,161.84,5.44,Clayey,Tillering,33.96,42.89,2.34,Yes
+2024-11-05,Uttar Pradesh,12.27,0.08,5.6,Loamy,Panicle Initiation,24.48,87.62,2.88,Yes
+2024-07-06,Uttar Pradesh,15.04,194.81,5.83,Sandy Loam,Panicle Initiation,35.95,63.3,2.79,Yes
+2024-06-30,Uttar Pradesh,63.27,5.15,2.08,Sandy Loam,Maturity,25.34,68.03,2.92,No
+2024-07-10,Uttar Pradesh,49.62,55.72,3.69,Sandy Loam,Flowering,32.66,81.01,2.46,No
+2024-10-09,Uttar Pradesh,34.34,82.63,2.05,Sandy Loam,Tillering,37.78,91.45,1.87,No
+2024-09-19,Uttar Pradesh,77.13,162.95,6.76,Sandy Loam,Panicle Initiation,29.17,41.15,1.67,No
+2024-09-09,Uttar Pradesh,67.95,51.04,4.65,Sandy Loam,Tillering,34.88,44.83,2.31,No
+2024-10-24,Uttar Pradesh,77.07,150.88,3.94,Loamy,Maturity,33.8,53.43,2.31,No
+2024-10-12,Uttar Pradesh,17.99,6.18,6.86,Sandy Loam,Maturity,35.16,77.22,1.95,Yes
+2024-08-22,Uttar Pradesh,85.6,164.15,4.23,Sandy Loam,Tillering,28.37,78.42,0.98,No
+2024-10-11,Uttar Pradesh,79.91,181.23,4.84,Sandy Loam,Flowering,29.87,67.99,2.47,No
+2024-06-21,Uttar Pradesh,35.74,33.89,2.69,Clayey,Flowering,26.57,48.77,1.14,No
+2024-06-08,Uttar Pradesh,50.67,3.1,6.3,Sandy Loam,Tillering,30.97,77.53,1.44,Yes
+2024-07-14,Uttar Pradesh,12.34,19.73,3.24,Sandy Loam,Maturity,27.29,55.41,2.78,Yes
+2024-08-11,Uttar Pradesh,76.0,34.71,6.46,Sandy Loam,Maturity,31.26,66.66,1.2,Yes
+2024-07-08,Uttar Pradesh,52.78,67.01,2.64,Loamy,Flowering,29.23,88.88,1.31,No
+2024-07-10,Uttar Pradesh,85.23,129.54,3.31,Sandy Loam,Flowering,30.5,76.27,1.98,No
+2024-08-18,Uttar Pradesh,18.52,146.9,4.53,Clayey,Tillering,29.22,58.84,2.08,Yes
+2024-11-07,Uttar Pradesh,37.12,66.03,3.31,Sandy Loam,Tillering,35.74,77.9,2.2,No
+2024-06-26,Uttar Pradesh,56.28,105.36,4.85,Sandy Loam,Tillering,29.6,54.29,2.82,No
+2024-10-15,Uttar Pradesh,41.84,131.66,6.03,Loamy,Flowering,35.13,53.66,2.35,No
+2024-06-27,Uttar Pradesh,27.71,188.79,5.3,Loamy,Tillering,28.7,71.57,1.01,Yes
+2024-09-19,Uttar Pradesh,41.27,76.39,5.17,Clayey,Maturity,28.11,45.99,1.18,No
+2024-09-16,Uttar Pradesh,36.18,85.12,3.08,Sandy Loam,Panicle Initiation,30.0,92.04,2.09,No
+2024-10-30,Uttar Pradesh,61.36,184.06,6.67,Clayey,Panicle Initiation,24.03,68.42,2.83,No
+2024-07-18,Uttar Pradesh,13.99,166.95,2.48,Sandy Loam,Panicle Initiation,27.93,90.61,0.82,Yes
+2024-10-04,Uttar Pradesh,53.21,109.33,5.25,Loamy,Tillering,24.25,53.62,0.76,No
+2024-07-19,Uttar Pradesh,50.95,40.42,3.59,Loamy,Maturity,34.52,50.84,0.64,No
+2024-08-12,Uttar Pradesh,68.58,46.7,5.21,Clayey,Panicle Initiation,35.53,86.87,1.05,Yes
+2024-10-15,Uttar Pradesh,71.33,182.25,2.69,Sandy Loam,Flowering,23.5,50.46,1.36,No
+2024-10-19,Uttar Pradesh,81.79,153.64,5.31,Clayey,Maturity,24.16,88.16,1.24,No
+2024-09-02,Uttar Pradesh,47.33,185.67,4.28,Loamy,Flowering,36.27,46.47,2.86,No
+2024-07-03,Uttar Pradesh,61.88,46.75,4.11,Sandy Loam,Panicle Initiation,23.29,87.55,3.0,No
+2024-08-22,Uttar Pradesh,80.01,49.39,5.05,Loamy,Flowering,33.61,82.49,0.62,Yes
+2024-08-04,Uttar Pradesh,86.15,175.27,3.14,Sandy Loam,Panicle Initiation,34.76,50.62,1.19,No
+2024-07-23,Uttar Pradesh,89.92,55.89,6.57,Loamy,Maturity,26.69,91.27,2.8,No
+2024-06-19,Uttar Pradesh,54.14,114.97,4.47,Loamy,Panicle Initiation,26.69,61.73,2.79,No
+2024-10-30,Uttar Pradesh,53.22,21.64,6.04,Clayey,Panicle Initiation,27.89,48.79,0.61,Yes
+2024-11-27,Uttar Pradesh,50.68,188.3,6.64,Sandy Loam,Panicle Initiation,32.76,61.33,1.44,No
+2024-06-02,Uttar Pradesh,48.25,172.71,6.7,Sandy Loam,Tillering,22.17,40.27,2.06,No
+2024-09-19,Uttar Pradesh,89.21,15.91,5.22,Loamy,Tillering,34.56,70.33,0.64,Yes
+2024-09-20,Uttar Pradesh,55.83,39.21,2.81,Clayey,Maturity,31.48,90.82,2.65,No
+2024-08-22,Uttar Pradesh,29.27,152.3,3.98,Clayey,Tillering,37.13,68.75,1.41,Yes
+2024-06-02,Uttar Pradesh,61.52,185.22,4.44,Loamy,Tillering,35.05,79.5,2.35,No
+2024-11-03,Uttar Pradesh,59.11,65.14,4.02,Loamy,Panicle Initiation,37.04,41.11,1.67,No
+2024-06-15,Uttar Pradesh,49.39,190.44,2.43,Clayey,Maturity,33.65,68.24,1.62,No
+2024-10-28,Uttar Pradesh,10.53,59.69,2.19,Clayey,Flowering,22.73,77.77,1.63,Yes
+2024-09-17,Uttar Pradesh,48.56,185.2,6.72,Sandy Loam,Flowering,35.09,49.39,2.15,No
+2024-08-31,Uttar Pradesh,15.63,63.42,2.83,Sandy Loam,Maturity,24.18,54.55,1.73,Yes
+2024-06-29,Uttar Pradesh,80.11,57.2,2.53,Sandy Loam,Tillering,29.14,86.5,1.63,No
+2024-08-19,Uttar Pradesh,12.61,11.87,2.95,Clayey,Tillering,24.67,80.65,0.8,Yes
+2024-09-30,Uttar Pradesh,52.42,18.52,3.57,Loamy,Maturity,27.57,82.2,2.92,No
+2024-07-26,Uttar Pradesh,42.78,8.2,6.95,Loamy,Panicle Initiation,31.21,87.05,2.78,Yes
+2024-11-18,Uttar Pradesh,23.97,57.53,6.47,Loamy,Flowering,27.84,84.9,2.62,Yes
+2024-08-20,Uttar Pradesh,47.8,164.34,3.18,Clayey,Maturity,36.41,62.97,2.57,No
+2024-08-26,Uttar Pradesh,17.48,47.41,5.55,Sandy Loam,Tillering,35.56,51.06,2.23,Yes
+2024-11-20,Uttar Pradesh,31.62,128.42,6.39,Sandy Loam,Panicle Initiation,37.58,51.43,1.3,No
+2024-07-12,Uttar Pradesh,37.63,102.65,3.94,Sandy Loam,Tillering,26.91,93.83,2.29,No
+2024-10-03,Uttar Pradesh,73.2,80.02,3.92,Loamy,Tillering,25.23,46.64,1.58,No
+2024-08-10,Uttar Pradesh,63.77,26.3,5.11,Loamy,Panicle Initiation,36.69,54.12,0.79,Yes
+2024-09-01,Uttar Pradesh,54.09,29.6,3.28,Clayey,Maturity,25.6,70.75,2.57,No
+2024-06-19,Uttar Pradesh,64.42,146.52,6.05,Loamy,Maturity,22.51,57.62,0.71,No
+2024-06-02,Uttar Pradesh,24.93,178.32,3.25,Loamy,Maturity,24.06,86.94,1.15,Yes
+2024-07-06,Uttar Pradesh,47.69,35.98,3.46,Sandy Loam,Panicle Initiation,37.37,70.31,1.33,No
+2024-06-22,Uttar Pradesh,61.8,99.12,5.19,Loamy,Tillering,26.19,69.86,0.64,No
+2024-07-11,Uttar Pradesh,62.71,80.99,3.03,Sandy Loam,Panicle Initiation,28.88,43.04,1.55,No
+2024-08-17,Uttar Pradesh,32.86,136.81,2.19,Clayey,Tillering,28.9,42.73,2.76,No
+2024-10-27,Uttar Pradesh,76.42,43.23,3.49,Clayey,Flowering,23.66,41.28,2.45,No
+2024-06-29,Uttar Pradesh,28.13,118.44,4.4,Sandy Loam,Tillering,36.13,87.95,1.56,Yes
+2024-08-28,Uttar Pradesh,78.23,76.36,2.28,Clayey,Tillering,25.24,66.58,1.51,No
+2024-09-19,Uttar Pradesh,16.21,60.65,5.43,Loamy,Maturity,26.34,75.72,0.59,Yes
+2024-07-19,Uttar Pradesh,31.58,112.26,6.41,Sandy Loam,Flowering,37.8,58.43,0.95,No
+2024-08-26,Uttar Pradesh,13.3,31.4,6.96,Sandy Loam,Panicle Initiation,29.08,81.13,1.42,Yes
+2024-11-19,Uttar Pradesh,30.02,71.62,5.87,Clayey,Tillering,30.42,86.79,2.19,No
+2024-11-21,Uttar Pradesh,66.7,174.75,6.88,Sandy Loam,Flowering,34.31,41.13,2.91,No
+2024-09-19,Uttar Pradesh,39.81,53.52,3.18,Sandy Loam,Panicle Initiation,32.28,76.41,2.6,No
+2024-09-05,Uttar Pradesh,27.66,160.5,4.94,Loamy,Flowering,37.09,62.59,1.14,Yes
+2024-07-13,Uttar Pradesh,35.02,45.62,3.74,Sandy Loam,Flowering,26.19,91.28,0.98,No
+2024-09-08,Uttar Pradesh,59.12,141.74,2.46,Clayey,Panicle Initiation,37.27,42.66,1.94,No
+2024-10-08,Uttar Pradesh,51.87,119.84,5.15,Clayey,Flowering,30.96,91.88,2.22,No
+2024-10-06,Uttar Pradesh,86.67,26.29,6.71,Sandy Loam,Flowering,33.23,94.12,1.8,Yes
+2024-08-27,Uttar Pradesh,33.28,131.16,2.96,Sandy Loam,Flowering,37.54,74.39,2.08,No
+2024-09-12,Uttar Pradesh,47.43,75.51,3.16,Loamy,Maturity,36.31,62.74,1.33,No
+2024-09-04,Uttar Pradesh,39.83,144.98,6.99,Clayey,Flowering,28.34,64.43,2.5,No
+2024-11-13,Uttar Pradesh,61.56,4.56,6.19,Sandy Loam,Maturity,34.25,41.71,0.94,Yes
+2024-10-02,Uttar Pradesh,40.49,161.88,4.05,Clayey,Flowering,29.47,48.74,1.38,No
+2024-11-22,Uttar Pradesh,77.9,74.8,4.19,Sandy Loam,Panicle Initiation,22.51,46.49,2.44,No
+2024-07-22,Uttar Pradesh,60.08,185.18,5.88,Sandy Loam,Tillering,37.35,94.54,0.98,No
+2024-06-12,Uttar Pradesh,14.13,36.74,4.01,Loamy,Flowering,22.07,69.24,0.66,Yes
+2024-06-22,Uttar Pradesh,31.6,122.86,4.02,Clayey,Panicle Initiation,28.31,64.8,2.45,No
+2024-10-05,Uttar Pradesh,61.78,116.11,5.09,Loamy,Panicle Initiation,34.97,51.02,0.97,No
+2024-06-04,Uttar Pradesh,21.67,177.98,6.29,Clayey,Flowering,35.83,44.02,1.48,Yes
+2024-08-02,Uttar Pradesh,34.99,62.07,4.36,Sandy Loam,Tillering,30.86,47.49,2.13,No
+2024-08-20,Uttar Pradesh,28.17,84.66,5.12,Sandy Loam,Tillering,24.69,70.45,1.1,Yes
+2024-07-25,Uttar Pradesh,77.99,139.35,2.58,Loamy,Maturity,32.49,50.05,1.3,No
+2024-08-02,Uttar Pradesh,24.33,163.29,6.05,Sandy Loam,Flowering,25.41,45.88,1.73,Yes
+2024-11-21,Uttar Pradesh,10.08,182.77,3.06,Loamy,Tillering,28.07,72.55,0.8,Yes
+2024-09-27,Uttar Pradesh,31.07,162.98,4.64,Loamy,Tillering,22.24,66.59,2.54,No
+2024-06-12,Uttar Pradesh,28.35,149.93,6.18,Sandy Loam,Panicle Initiation,30.5,80.08,2.53,Yes
+2024-08-22,Uttar Pradesh,48.6,109.17,3.93,Loamy,Maturity,34.15,45.72,2.95,No
+2024-11-12,Uttar Pradesh,55.07,89.13,6.38,Sandy Loam,Flowering,28.3,86.94,2.23,No
+2024-10-29,Uttar Pradesh,70.42,164.87,4.41,Clayey,Maturity,27.08,45.46,1.36,No
+2024-11-06,Uttar Pradesh,27.08,29.48,3.52,Sandy Loam,Tillering,32.97,75.73,2.74,Yes
+2024-10-03,Uttar Pradesh,29.74,93.29,3.22,Sandy Loam,Maturity,34.51,65.79,2.97,Yes
+2024-07-13,Uttar Pradesh,14.27,47.62,5.68,Clayey,Flowering,23.38,87.23,0.82,Yes
+2024-06-20,Uttar Pradesh,52.58,144.58,6.99,Sandy Loam,Maturity,28.59,43.56,2.22,No
+2024-08-01,Uttar Pradesh,52.23,164.89,6.19,Clayey,Flowering,30.44,65.58,0.99,No
+2024-06-14,Uttar Pradesh,54.36,188.85,5.19,Clayey,Maturity,29.4,48.21,0.96,No
+2024-08-30,Uttar Pradesh,72.38,27.86,4.26,Sandy Loam,Flowering,34.08,48.48,1.25,No
+2024-08-12,Uttar Pradesh,58.12,96.59,6.48,Clayey,Tillering,32.12,51.49,1.56,No
+2024-07-07,Uttar Pradesh,31.5,1.33,5.75,Sandy Loam,Maturity,27.31,76.87,1.03,Yes
+2024-06-12,Uttar Pradesh,57.15,108.14,6.48,Sandy Loam,Panicle Initiation,35.49,67.93,1.62,No
+2024-09-10,Uttar Pradesh,44.8,81.75,2.89,Sandy Loam,Maturity,26.42,67.8,1.32,No
+2024-09-25,Uttar Pradesh,59.42,159.32,3.03,Sandy Loam,Panicle Initiation,22.02,87.41,1.33,No
+2024-11-27,Uttar Pradesh,13.84,35.67,3.76,Clayey,Panicle Initiation,29.44,65.59,0.86,Yes
+2024-10-08,Uttar Pradesh,55.11,155.54,3.87,Clayey,Flowering,37.11,74.82,2.79,No
+2024-11-11,Uttar Pradesh,88.71,178.86,5.08,Clayey,Panicle Initiation,22.97,64.84,2.18,No
+2024-11-24,Uttar Pradesh,30.12,162.37,5.99,Loamy,Panicle Initiation,25.33,47.66,1.53,No
+2024-07-21,Uttar Pradesh,27.27,175.58,2.67,Loamy,Tillering,30.04,47.93,1.23,Yes
+2024-11-16,Uttar Pradesh,31.61,103.88,3.77,Loamy,Panicle Initiation,36.46,66.9,2.79,No
+2024-11-14,Uttar Pradesh,76.05,128.45,3.88,Sandy Loam,Flowering,35.87,67.73,2.92,No
+2024-08-11,Uttar Pradesh,31.98,194.49,5.61,Loamy,Flowering,36.15,70.89,2.9,No
+2024-08-06,Uttar Pradesh,66.36,2.63,3.46,Sandy Loam,Panicle Initiation,22.44,43.02,2.12,No
+2024-08-25,Uttar Pradesh,18.95,54.32,2.61,Sandy Loam,Maturity,31.25,86.1,0.93,Yes
+2024-06-16,Uttar Pradesh,46.83,128.67,2.03,Sandy Loam,Maturity,29.04,45.25,1.29,No
+2024-09-12,Uttar Pradesh,19.47,26.87,5.37,Sandy Loam,Flowering,22.91,61.47,1.7,Yes
+2024-07-27,Uttar Pradesh,41.95,176.01,2.55,Clayey,Flowering,31.16,55.26,1.45,No
+2024-10-18,Uttar Pradesh,45.78,186.39,5.67,Clayey,Maturity,32.8,62.04,1.82,No
+2024-10-10,Uttar Pradesh,27.13,100.81,3.99,Clayey,Panicle Initiation,25.68,80.38,1.61,Yes
+2024-08-04,Uttar Pradesh,23.7,187.06,3.42,Sandy Loam,Panicle Initiation,27.18,44.69,2.91,Yes
+2024-06-22,Uttar Pradesh,39.02,94.32,2.14,Clayey,Tillering,32.07,86.19,1.48,No
+2024-09-02,Uttar Pradesh,54.91,132.86,5.03,Clayey,Tillering,32.57,62.25,2.53,No
+2024-07-07,Uttar Pradesh,34.75,186.23,2.11,Clayey,Flowering,29.7,82.99,2.81,No
+2024-08-10,Uttar Pradesh,23.05,38.88,4.84,Loamy,Flowering,28.2,43.97,2.44,Yes
+2024-09-19,Uttar Pradesh,55.74,17.11,5.99,Loamy,Maturity,37.52,63.89,0.73,Yes
+2024-11-08,Uttar Pradesh,24.57,152.88,4.77,Clayey,Tillering,37.96,81.06,2.39,Yes
+2024-11-08,Uttar Pradesh,58.73,171.56,5.99,Loamy,Flowering,29.69,51.08,0.81,No
+2024-06-08,Uttar Pradesh,19.12,81.77,4.34,Sandy Loam,Panicle Initiation,26.92,47.84,1.28,Yes
+2024-10-26,Uttar Pradesh,77.17,28.88,3.75,Clayey,Flowering,25.52,56.57,2.8,No
+2024-07-27,Uttar Pradesh,69.26,114.8,6.79,Clayey,Flowering,37.23,41.1,2.35,No
+2024-09-28,Uttar Pradesh,37.68,171.6,4.9,Sandy Loam,Panicle Initiation,33.02,60.56,0.56,No
+2024-08-02,Uttar Pradesh,54.69,179.05,3.07,Loamy,Maturity,25.78,50.14,2.05,No
+2024-08-03,Uttar Pradesh,14.97,69.05,2.86,Clayey,Maturity,33.4,54.62,1.9,Yes
+2024-09-18,Uttar Pradesh,34.45,23.97,2.52,Sandy Loam,Tillering,32.36,64.34,1.34,No
+2024-10-07,Uttar Pradesh,82.92,87.18,3.5,Clayey,Flowering,31.25,93.26,0.98,No
+2024-06-05,Uttar Pradesh,30.81,173.63,5.61,Clayey,Panicle Initiation,35.34,85.18,1.21,No
+2024-06-30,Uttar Pradesh,77.71,42.52,6.41,Clayey,Tillering,27.61,44.31,2.86,Yes
+2024-11-15,Uttar Pradesh,87.8,76.22,5.57,Loamy,Tillering,28.29,64.74,2.04,No
+2024-11-07,Uttar Pradesh,16.09,78.93,5.37,Loamy,Flowering,37.1,90.76,0.81,Yes
+2024-09-22,Uttar Pradesh,71.1,138.53,2.21,Sandy Loam,Flowering,32.24,74.29,2.04,No
+2024-08-11,Uttar Pradesh,80.33,89.62,6.41,Loamy,Maturity,23.32,94.96,2.54,No
+2024-10-22,Uttar Pradesh,77.9,67.59,2.65,Sandy Loam,Tillering,26.36,59.64,1.35,No
+2024-07-17,Uttar Pradesh,51.84,6.84,2.98,Sandy Loam,Panicle Initiation,28.23,49.76,1.71,No
+2024-08-17,Uttar Pradesh,63.24,169.46,3.66,Sandy Loam,Maturity,37.68,52.56,2.45,No
+2024-10-14,Uttar Pradesh,14.38,58.88,3.06,Loamy,Panicle Initiation,26.22,83.75,1.9,Yes
+2024-09-20,Uttar Pradesh,39.46,190.46,5.16,Clayey,Maturity,24.96,73.76,2.11,No
+2024-10-19,Uttar Pradesh,47.13,164.97,6.4,Clayey,Flowering,33.53,79.46,2.13,No
+2024-08-15,Uttar Pradesh,52.76,190.13,5.51,Loamy,Maturity,30.65,61.3,2.12,No
+2024-10-15,Uttar Pradesh,22.5,20.2,6.51,Loamy,Tillering,27.74,79.66,1.35,Yes
+2024-08-06,Uttar Pradesh,70.86,20.63,6.71,Clayey,Tillering,26.25,45.28,2.36,Yes
+2024-11-26,Uttar Pradesh,18.6,119.79,3.98,Loamy,Flowering,29.04,79.91,2.08,Yes
+2024-06-28,Uttar Pradesh,52.37,164.14,2.39,Sandy Loam,Flowering,32.44,90.8,1.75,No
+2024-06-10,Uttar Pradesh,59.13,101.85,4.05,Clayey,Panicle Initiation,35.65,43.45,2.39,No
+2024-10-26,Uttar Pradesh,19.81,175.74,6.91,Clayey,Tillering,26.37,47.31,2.5,Yes
+2024-07-18,Uttar Pradesh,53.8,178.86,4.82,Loamy,Panicle Initiation,37.13,66.25,1.89,No
+2024-08-16,Uttar Pradesh,49.74,103.16,4.22,Loamy,Maturity,37.96,67.77,2.52,No
+2024-06-22,Uttar Pradesh,69.8,175.04,6.96,Sandy Loam,Flowering,34.8,72.35,1.66,No
+2024-11-23,Uttar Pradesh,28.34,73.42,3.82,Loamy,Flowering,29.06,63.22,1.64,Yes
+2024-06-27,Uttar Pradesh,20.34,91.06,2.62,Sandy Loam,Tillering,24.1,62.59,1.56,Yes
+2024-10-20,Uttar Pradesh,73.3,64.98,4.23,Sandy Loam,Maturity,24.53,48.16,2.86,No
+2024-10-31,Uttar Pradesh,63.59,139.29,5.34,Loamy,Maturity,25.06,62.62,1.03,No
+2024-11-04,Uttar Pradesh,29.35,44.97,2.06,Clayey,Panicle Initiation,28.57,60.49,1.22,Yes
+2024-10-24,Uttar Pradesh,89.08,9.35,6.95,Clayey,Tillering,37.02,49.89,1.02,Yes
+2024-08-12,Uttar Pradesh,12.28,12.02,6.8,Clayey,Tillering,34.29,73.73,0.56,Yes
+2024-07-31,Uttar Pradesh,59.07,13.12,6.07,Sandy Loam,Tillering,23.04,48.62,0.52,Yes
+2024-07-01,Uttar Pradesh,74.45,148.6,2.46,Loamy,Maturity,35.18,45.97,2.48,No
+2024-08-09,Uttar Pradesh,39.68,180.68,4.95,Clayey,Maturity,24.31,62.27,2.83,No
+2024-11-05,Uttar Pradesh,81.11,79.33,5.44,Loamy,Panicle Initiation,31.36,50.18,0.81,No
+2024-10-08,Uttar Pradesh,67.25,137.32,4.36,Loamy,Tillering,35.82,60.63,2.05,No
+2024-11-21,Uttar Pradesh,68.71,111.29,6.05,Loamy,Panicle Initiation,29.65,92.52,0.84,No
+2024-09-25,Uttar Pradesh,75.43,144.67,5.97,Sandy Loam,Panicle Initiation,36.34,49.36,2.24,No
+2024-06-08,Uttar Pradesh,13.12,76.29,2.52,Loamy,Flowering,23.56,74.07,1.9,Yes
+2024-07-07,Uttar Pradesh,58.67,146.86,3.79,Clayey,Flowering,33.39,50.94,2.37,No
+2024-08-19,Uttar Pradesh,84.25,43.91,4.33,Clayey,Tillering,37.63,57.44,1.94,No
+2024-07-05,Uttar Pradesh,71.23,174.94,3.04,Clayey,Panicle Initiation,30.66,47.77,2.78,No
+2024-07-05,Uttar Pradesh,62.8,106.52,6.79,Loamy,Panicle Initiation,36.65,72.16,2.95,No
+2024-08-24,Uttar Pradesh,86.86,46.45,5.85,Loamy,Panicle Initiation,25.57,46.28,1.18,Yes
+2024-06-16,Uttar Pradesh,78.96,167.58,3.38,Clayey,Flowering,27.27,94.37,2.12,No
+2024-09-28,Uttar Pradesh,21.19,130.86,3.86,Loamy,Tillering,30.24,76.54,2.06,Yes
+2024-10-18,Uttar Pradesh,45.93,190.47,5.68,Sandy Loam,Tillering,36.97,48.28,1.47,No
+2024-09-08,Uttar Pradesh,65.28,17.95,6.56,Loamy,Tillering,30.02,75.06,0.57,Yes
+2024-10-04,Uttar Pradesh,15.18,34.09,2.89,Sandy Loam,Flowering,29.54,93.43,2.94,Yes
+2024-11-12,Uttar Pradesh,66.39,79.28,3.96,Sandy Loam,Tillering,34.14,61.07,0.7,No
+2024-08-21,Uttar Pradesh,25.5,125.01,6.54,Loamy,Tillering,32.27,73.2,1.38,Yes
+2024-11-03,Uttar Pradesh,29.18,192.93,2.09,Loamy,Tillering,34.32,75.41,2.49,Yes
+2024-10-17,Uttar Pradesh,58.69,176.17,4.47,Loamy,Panicle Initiation,33.0,75.04,0.97,No
+2024-10-14,Uttar Pradesh,29.72,13.64,5.12,Clayey,Panicle Initiation,31.66,77.41,1.65,Yes
+2024-10-08,Uttar Pradesh,29.8,174.69,4.95,Clayey,Maturity,37.17,69.44,0.97,Yes
+2024-08-18,Uttar Pradesh,43.81,43.52,3.15,Loamy,Panicle Initiation,29.89,67.54,0.99,No
+2024-07-25,Uttar Pradesh,25.87,110.81,6.73,Loamy,Panicle Initiation,32.38,75.76,0.65,Yes
+2024-11-22,Uttar Pradesh,40.99,194.41,2.6,Sandy Loam,Panicle Initiation,26.3,94.87,1.41,No
+2024-10-05,Uttar Pradesh,30.49,154.76,4.51,Clayey,Panicle Initiation,23.74,87.84,2.31,No
+2024-09-27,Uttar Pradesh,76.21,73.25,4.89,Sandy Loam,Flowering,25.2,89.44,1.92,No
+2024-07-26,Uttar Pradesh,21.9,115.79,6.74,Sandy Loam,Flowering,35.83,83.8,2.72,Yes
+2024-06-15,Uttar Pradesh,65.02,70.88,5.33,Loamy,Panicle Initiation,22.28,43.96,2.79,No
+2024-08-01,Uttar Pradesh,75.15,66.41,6.57,Clayey,Panicle Initiation,36.43,78.26,2.09,No
+2024-08-28,Uttar Pradesh,60.08,100.45,6.11,Sandy Loam,Panicle Initiation,31.66,69.39,1.46,No
+2024-11-06,Uttar Pradesh,38.55,38.06,3.35,Loamy,Tillering,27.32,86.67,0.98,No
+2024-07-10,Uttar Pradesh,41.19,51.59,2.16,Loamy,Tillering,28.85,91.02,1.25,No
+2024-07-27,Uttar Pradesh,34.48,108.96,6.65,Sandy Loam,Flowering,26.67,53.57,2.43,No
+2024-11-23,Uttar Pradesh,18.76,148.48,4.67,Loamy,Maturity,24.26,40.9,2.37,Yes
+2024-10-06,Uttar Pradesh,18.18,166.02,4.54,Clayey,Panicle Initiation,32.48,78.73,1.88,Yes
+2024-06-24,Uttar Pradesh,30.88,100.12,5.86,Sandy Loam,Maturity,29.59,78.53,2.76,No
+2024-10-18,Uttar Pradesh,32.46,25.54,3.95,Sandy Loam,Maturity,24.01,57.46,0.81,No
+2024-08-30,Uttar Pradesh,50.99,82.19,5.72,Loamy,Tillering,30.28,91.66,1.21,No
+2024-07-31,Uttar Pradesh,79.78,102.77,5.92,Sandy Loam,Panicle Initiation,35.36,62.2,2.69,No
+2024-09-02,Uttar Pradesh,32.39,124.1,3.01,Loamy,Tillering,36.61,48.01,2.67,No
+2024-09-14,Uttar Pradesh,27.13,132.42,3.89,Clayey,Tillering,32.53,52.65,0.94,Yes
+2024-10-09,Uttar Pradesh,64.53,170.08,4.02,Loamy,Tillering,29.68,71.64,2.4,No
+2024-09-12,Uttar Pradesh,72.45,20.8,2.54,Sandy Loam,Maturity,24.4,74.72,1.51,No
+2024-11-23,Uttar Pradesh,75.16,187.95,5.51,Sandy Loam,Panicle Initiation,31.26,50.03,2.74,No
+2024-09-18,Uttar Pradesh,85.51,172.99,6.52,Clayey,Tillering,35.64,59.11,1.06,No
+2024-10-04,Uttar Pradesh,50.17,40.84,3.7,Clayey,Flowering,30.91,91.66,1.76,No
+2024-07-24,Uttar Pradesh,36.62,69.23,5.17,Sandy Loam,Maturity,35.48,59.73,1.88,No
+2024-08-10,Uttar Pradesh,18.96,15.37,6.72,Clayey,Panicle Initiation,24.83,65.38,2.07,Yes
+2024-08-01,Uttar Pradesh,77.84,51.95,4.96,Clayey,Tillering,31.51,93.03,2.51,No
+2024-09-10,Uttar Pradesh,79.79,55.56,3.88,Loamy,Flowering,36.66,44.64,0.54,No
+2024-07-25,Uttar Pradesh,12.36,50.08,2.0,Loamy,Maturity,36.22,84.64,1.61,Yes
+2024-09-24,Uttar Pradesh,37.47,61.19,6.25,Clayey,Maturity,25.3,48.46,0.82,No
+2024-09-11,Uttar Pradesh,16.65,86.24,5.84,Clayey,Tillering,34.48,63.41,2.55,Yes
+2024-11-22,Uttar Pradesh,19.3,29.46,3.88,Loamy,Maturity,35.99,51.38,1.7,Yes
+2024-09-14,Uttar Pradesh,18.95,22.69,4.51,Loamy,Flowering,25.86,53.44,1.9,Yes
+2024-06-25,Uttar Pradesh,15.96,156.87,4.06,Loamy,Tillering,29.88,42.14,1.36,Yes
+2024-06-09,Uttar Pradesh,34.57,111.55,3.63,Loamy,Panicle Initiation,34.17,88.49,2.27,No
+2024-11-02,Uttar Pradesh,58.3,44.81,5.3,Clayey,Panicle Initiation,28.95,61.88,2.44,Yes
+2024-11-15,Uttar Pradesh,80.49,155.92,4.97,Sandy Loam,Panicle Initiation,25.56,75.48,2.82,No
+2024-07-03,Uttar Pradesh,41.62,185.51,6.42,Loamy,Maturity,22.34,59.88,2.61,No
+2024-11-23,Uttar Pradesh,34.11,136.04,2.65,Sandy Loam,Maturity,24.93,90.37,1.31,No
+2024-07-08,Uttar Pradesh,13.21,89.39,5.52,Loamy,Panicle Initiation,32.31,45.39,1.13,Yes
+2024-11-06,Uttar Pradesh,28.99,155.62,5.92,Clayey,Maturity,31.93,77.91,2.64,Yes
+2024-06-10,Uttar Pradesh,89.84,20.56,3.11,Sandy Loam,Maturity,34.19,48.62,1.05,No
+2024-06-22,Uttar Pradesh,16.9,17.23,4.95,Sandy Loam,Maturity,28.55,85.89,1.15,Yes
+2024-06-01,Uttar Pradesh,58.22,190.93,4.01,Sandy Loam,Panicle Initiation,35.15,50.7,2.28,No
+2024-07-07,Uttar Pradesh,15.59,41.34,6.31,Clayey,Maturity,37.48,76.95,2.12,Yes
+2024-09-18,Uttar Pradesh,55.45,70.07,3.83,Clayey,Tillering,24.07,55.98,2.48,No
+2024-07-31,Uttar Pradesh,34.6,198.84,4.46,Loamy,Tillering,36.61,50.21,0.95,No
+2024-10-14,Uttar Pradesh,15.18,52.02,4.0,Clayey,Maturity,29.5,66.33,1.44,Yes
+2024-06-30,Uttar Pradesh,71.65,124.29,4.81,Loamy,Flowering,22.02,57.03,2.15,No
+2024-06-27,Uttar Pradesh,11.89,153.09,4.85,Clayey,Flowering,29.89,69.73,1.21,Yes
+2024-07-09,Uttar Pradesh,22.14,47.18,3.42,Clayey,Flowering,22.15,74.57,1.59,Yes
+2024-11-07,Uttar Pradesh,13.01,160.09,5.97,Loamy,Flowering,30.51,44.35,0.88,Yes
+2024-08-30,Uttar Pradesh,29.28,20.09,4.12,Clayey,Flowering,23.98,52.29,1.7,Yes
+2024-09-19,Uttar Pradesh,39.42,83.5,6.66,Loamy,Maturity,27.17,65.71,1.6,No
+2024-08-19,Uttar Pradesh,80.11,161.49,4.53,Sandy Loam,Panicle Initiation,30.93,59.26,1.78,No
+2024-10-07,Uttar Pradesh,46.38,108.58,2.59,Loamy,Maturity,32.28,92.1,0.97,No
+2024-07-02,Uttar Pradesh,74.08,140.67,2.85,Sandy Loam,Maturity,30.7,66.15,2.2,No
+2024-06-10,Uttar Pradesh,24.31,198.46,3.91,Sandy Loam,Tillering,35.63,77.01,2.85,Yes
+2024-06-22,Uttar Pradesh,20.33,128.26,5.8,Clayey,Tillering,22.35,76.26,1.33,Yes
+2024-07-12,Uttar Pradesh,64.9,69.65,5.78,Clayey,Panicle Initiation,23.5,60.46,0.67,No
+2024-10-30,Uttar Pradesh,11.12,132.76,6.09,Clayey,Flowering,36.55,63.53,1.73,Yes
+2024-08-23,Uttar Pradesh,27.89,152.64,4.14,Loamy,Flowering,28.66,57.54,2.08,Yes
+2024-09-23,Uttar Pradesh,67.22,51.48,6.22,Sandy Loam,Panicle Initiation,36.58,47.27,1.93,No
+2024-09-12,Uttar Pradesh,87.95,40.14,6.7,Clayey,Panicle Initiation,28.33,42.43,1.51,Yes
+2024-08-09,Uttar Pradesh,30.18,69.85,6.71,Loamy,Maturity,31.24,82.35,1.73,No
+2024-11-23,Uttar Pradesh,48.68,59.35,5.37,Loamy,Panicle Initiation,28.49,87.3,2.58,No
+2024-06-03,Uttar Pradesh,48.88,164.54,3.79,Clayey,Flowering,31.53,58.67,0.56,No
+2024-10-04,Uttar Pradesh,32.7,194.0,6.42,Sandy Loam,Flowering,34.71,76.35,2.93,No
+2024-10-03,Uttar Pradesh,55.84,167.11,4.69,Sandy Loam,Panicle Initiation,22.32,89.9,2.47,No
+2024-09-12,Uttar Pradesh,81.73,68.95,5.65,Sandy Loam,Panicle Initiation,30.89,75.12,2.43,No
+2024-11-11,Uttar Pradesh,58.97,69.37,5.66,Clayey,Panicle Initiation,23.41,54.31,0.97,No
+2024-08-29,Uttar Pradesh,10.73,199.26,4.75,Loamy,Panicle Initiation,33.21,69.21,2.82,Yes
+2024-11-24,Uttar Pradesh,86.68,24.34,6.5,Clayey,Maturity,36.64,89.23,1.26,Yes
+2024-09-03,Uttar Pradesh,63.93,151.7,5.73,Loamy,Panicle Initiation,33.02,61.82,2.73,No
+2024-08-14,Uttar Pradesh,18.63,148.79,5.18,Clayey,Tillering,24.25,72.51,1.76,Yes
+2024-09-17,Uttar Pradesh,87.46,96.43,5.2,Sandy Loam,Maturity,26.62,89.31,2.75,No
+2024-09-15,Uttar Pradesh,50.72,67.49,3.2,Sandy Loam,Tillering,22.13,48.99,3.0,No
+2024-07-25,Uttar Pradesh,66.57,54.99,2.32,Loamy,Flowering,29.69,89.5,0.55,No
+2024-08-19,Uttar Pradesh,28.44,148.26,6.53,Loamy,Tillering,29.67,80.15,0.76,Yes
+2024-08-24,Uttar Pradesh,76.29,163.66,4.21,Loamy,Panicle Initiation,29.55,47.39,2.39,No
+2024-06-19,Uttar Pradesh,37.34,127.75,5.27,Loamy,Flowering,26.65,61.18,1.29,No
+2024-06-03,Uttar Pradesh,34.58,36.95,6.02,Clayey,Maturity,23.7,47.03,1.29,Yes
+2024-10-30,Uttar Pradesh,78.55,60.83,2.47,Clayey,Maturity,35.29,79.78,2.34,No
+2024-07-11,Uttar Pradesh,26.73,46.93,3.21,Loamy,Tillering,26.48,51.85,1.38,Yes
+2024-08-26,Uttar Pradesh,71.52,143.17,2.83,Clayey,Maturity,30.19,57.31,2.02,No
+2024-11-09,Uttar Pradesh,29.9,69.38,3.51,Loamy,Flowering,36.05,88.32,1.63,Yes
+2024-10-25,Uttar Pradesh,37.74,64.76,4.8,Loamy,Tillering,34.69,89.98,2.57,No
+2024-06-28,Uttar Pradesh,82.45,172.88,6.89,Loamy,Maturity,24.4,55.51,1.54,No
+2024-10-20,Uttar Pradesh,44.03,178.73,6.95,Sandy Loam,Panicle Initiation,36.95,77.16,0.83,No
+2024-09-29,Uttar Pradesh,48.38,32.74,4.55,Loamy,Flowering,24.08,42.68,1.74,No
+2024-10-24,Uttar Pradesh,70.61,72.93,5.5,Clayey,Maturity,28.21,71.03,0.74,No
+2024-08-05,Uttar Pradesh,70.62,183.67,6.1,Clayey,Maturity,26.12,70.79,1.12,No
+2024-06-17,Uttar Pradesh,63.01,118.48,6.48,Sandy Loam,Tillering,33.92,67.02,2.92,No
+2024-09-15,Uttar Pradesh,47.71,61.14,4.47,Loamy,Tillering,34.77,42.6,2.72,No
+2024-08-30,Uttar Pradesh,88.88,11.1,3.31,Loamy,Maturity,37.87,47.86,1.25,No
+2024-06-09,Uttar Pradesh,89.3,153.83,3.39,Sandy Loam,Flowering,27.64,71.05,0.79,No
+2024-10-28,Uttar Pradesh,35.13,56.95,3.2,Clayey,Tillering,34.83,45.34,2.13,No
+2024-07-29,Uttar Pradesh,59.21,119.84,3.18,Clayey,Maturity,26.74,58.3,2.27,No
+2024-08-27,Uttar Pradesh,10.29,41.79,4.19,Loamy,Maturity,23.78,45.81,1.78,Yes
+2024-06-12,Uttar Pradesh,44.36,49.3,4.76,Sandy Loam,Flowering,24.28,60.65,1.71,No
+2024-08-27,Uttar Pradesh,36.87,73.82,5.63,Sandy Loam,Maturity,25.1,93.36,1.81,No
+2024-08-04,Uttar Pradesh,71.3,28.09,2.79,Clayey,Panicle Initiation,32.17,61.49,2.64,No
+2024-11-26,Uttar Pradesh,52.27,106.94,5.73,Sandy Loam,Tillering,24.27,79.23,1.71,No
+2024-06-14,Uttar Pradesh,33.38,164.57,5.74,Sandy Loam,Tillering,26.2,71.93,1.98,No
+2024-11-28,Uttar Pradesh,44.76,14.83,3.09,Clayey,Panicle Initiation,28.28,41.83,1.48,No
+2024-10-17,Uttar Pradesh,86.07,94.4,5.63,Sandy Loam,Panicle Initiation,36.78,94.02,0.97,No
+2024-07-30,Uttar Pradesh,43.11,35.76,4.31,Clayey,Tillering,35.79,69.82,1.79,No
+2024-10-15,Uttar Pradesh,15.02,164.9,2.64,Loamy,Flowering,36.44,60.33,2.89,Yes
+2024-11-04,Uttar Pradesh,33.45,162.96,2.6,Clayey,Panicle Initiation,27.5,69.66,1.76,No
+2024-10-15,Uttar Pradesh,67.04,145.56,4.62,Loamy,Maturity,37.76,42.85,1.98,No
+2024-07-23,Uttar Pradesh,86.27,82.16,2.7,Sandy Loam,Maturity,28.68,42.67,2.6,No
+2024-08-02,Uttar Pradesh,69.27,106.91,2.42,Clayey,Panicle Initiation,31.74,55.32,2.86,No
+2024-06-06,Uttar Pradesh,39.88,47.14,4.55,Clayey,Tillering,31.58,58.21,1.51,No
+2024-11-03,Uttar Pradesh,25.99,162.58,5.0,Loamy,Tillering,35.04,72.56,1.87,Yes
+2024-07-29,Uttar Pradesh,22.28,148.11,4.6,Loamy,Panicle Initiation,23.79,72.57,1.18,Yes
+2024-06-06,Uttar Pradesh,69.3,16.67,5.5,Clayey,Maturity,35.96,48.9,2.51,Yes
+2024-09-19,Uttar Pradesh,13.62,35.46,2.29,Loamy,Maturity,36.44,78.33,1.29,Yes
+2024-08-04,Uttar Pradesh,61.4,47.42,3.94,Loamy,Maturity,34.53,85.81,0.92,No
+2024-09-06,Uttar Pradesh,35.88,52.93,4.63,Clayey,Tillering,33.2,65.4,2.0,No
+2024-07-23,Uttar Pradesh,20.82,58.94,6.26,Sandy Loam,Panicle Initiation,32.87,82.01,2.01,Yes
+2024-06-13,Uttar Pradesh,28.06,28.9,4.73,Clayey,Panicle Initiation,33.76,41.63,1.59,Yes
+2024-08-02,Uttar Pradesh,59.81,47.22,5.06,Clayey,Maturity,37.08,82.08,2.02,Yes
+2024-07-13,Uttar Pradesh,86.73,5.76,6.1,Sandy Loam,Panicle Initiation,34.06,74.54,1.32,Yes
+2024-06-04,Uttar Pradesh,10.98,66.67,4.18,Sandy Loam,Tillering,24.85,80.12,1.43,Yes
+2024-06-02,Uttar Pradesh,66.46,66.18,5.33,Loamy,Tillering,34.21,57.17,0.68,No
+2024-08-13,Uttar Pradesh,49.2,10.43,6.28,Sandy Loam,Maturity,35.66,41.42,1.97,Yes
+2024-11-09,Uttar Pradesh,10.23,134.91,2.58,Loamy,Maturity,34.39,59.14,0.91,Yes
+2024-08-22,Uttar Pradesh,48.52,45.83,3.84,Loamy,Maturity,31.05,80.32,2.03,No
+2024-08-25,Uttar Pradesh,23.18,176.08,5.28,Clayey,Flowering,30.3,51.86,1.57,Yes
+2024-06-24,Uttar Pradesh,53.15,2.24,6.36,Clayey,Maturity,36.5,57.26,1.24,Yes
+2024-10-31,Uttar Pradesh,52.65,0.76,4.99,Loamy,Tillering,31.25,87.22,2.54,No
+2024-09-15,Uttar Pradesh,61.79,74.33,5.14,Sandy Loam,Tillering,26.65,90.28,0.73,No
+2024-08-11,Uttar Pradesh,22.63,13.19,4.35,Sandy Loam,Panicle Initiation,32.56,86.05,1.44,Yes
+2024-09-17,Uttar Pradesh,63.65,46.53,5.64,Loamy,Flowering,28.62,93.99,1.03,Yes
+2024-07-25,Uttar Pradesh,51.85,154.71,2.46,Clayey,Panicle Initiation,37.28,78.71,0.82,No
+2024-06-23,Uttar Pradesh,19.72,111.8,3.28,Loamy,Tillering,34.91,79.8,2.67,Yes
+2024-10-10,Uttar Pradesh,83.88,43.64,4.41,Clayey,Maturity,33.38,81.0,2.58,No
+2024-11-10,Uttar Pradesh,11.16,63.21,4.38,Clayey,Tillering,35.58,86.31,0.95,Yes
+2024-06-23,Uttar Pradesh,14.35,81.34,4.25,Loamy,Panicle Initiation,32.86,45.83,2.09,Yes
+2024-11-09,Uttar Pradesh,76.0,70.55,5.15,Clayey,Panicle Initiation,30.0,57.54,1.71,No
+2024-10-07,Uttar Pradesh,15.19,74.16,4.08,Clayey,Flowering,27.01,88.56,1.81,Yes
+2024-10-24,Uttar Pradesh,28.15,7.76,4.16,Clayey,Flowering,31.32,63.98,1.6,Yes
+2024-10-17,Uttar Pradesh,56.39,6.08,5.15,Sandy Loam,Flowering,27.55,69.13,1.01,Yes
+2024-08-27,Uttar Pradesh,66.7,33.92,6.48,Sandy Loam,Flowering,24.12,42.3,2.49,Yes
+2024-10-01,Uttar Pradesh,20.89,138.99,6.25,Loamy,Flowering,23.12,79.04,0.51,Yes
+2024-06-17,Uttar Pradesh,60.25,52.81,5.38,Sandy Loam,Flowering,30.63,63.13,2.61,No
+2024-06-30,Uttar Pradesh,29.59,95.61,5.24,Sandy Loam,Tillering,34.68,78.09,2.43,Yes
+2024-11-25,Uttar Pradesh,11.81,111.34,5.77,Sandy Loam,Maturity,23.51,65.15,2.01,Yes
+2024-09-11,Uttar Pradesh,29.11,169.41,5.77,Clayey,Panicle Initiation,26.12,62.65,0.86,Yes
+2024-06-12,Uttar Pradesh,11.9,104.27,2.11,Clayey,Maturity,30.23,62.58,0.92,Yes
+2024-10-24,Uttar Pradesh,60.42,47.56,3.94,Clayey,Flowering,25.32,42.64,1.97,No
+2024-08-21,Uttar Pradesh,47.88,70.75,4.52,Clayey,Maturity,31.84,88.9,2.3,No
+2024-07-04,Uttar Pradesh,18.73,187.3,6.44,Sandy Loam,Maturity,29.42,74.81,2.0,Yes
+2024-10-13,Uttar Pradesh,83.63,189.39,2.0,Loamy,Panicle Initiation,22.91,80.33,2.67,No
+2024-09-16,Uttar Pradesh,18.48,15.97,5.11,Clayey,Flowering,26.85,45.39,2.53,Yes
+2024-06-06,Uttar Pradesh,20.87,131.45,5.63,Sandy Loam,Tillering,25.4,88.73,1.96,Yes
+2024-08-23,Uttar Pradesh,38.81,89.05,6.4,Loamy,Flowering,27.32,56.57,0.82,No
+2024-07-21,Uttar Pradesh,28.84,150.25,6.37,Loamy,Maturity,35.73,81.13,1.53,Yes
+2024-10-07,Uttar Pradesh,72.98,160.06,5.8,Loamy,Flowering,22.52,47.93,2.59,No
+2024-09-17,Uttar Pradesh,68.68,63.18,5.34,Loamy,Tillering,35.81,86.04,1.79,No
+2024-10-13,Uttar Pradesh,70.8,183.44,6.51,Sandy Loam,Panicle Initiation,31.53,92.98,1.41,No
+2024-10-31,Uttar Pradesh,74.19,46.29,5.07,Clayey,Maturity,26.05,41.92,3.0,Yes
+2024-08-22,Uttar Pradesh,55.79,1.8,5.63,Loamy,Panicle Initiation,28.37,79.02,2.16,Yes
+2024-06-28,Uttar Pradesh,22.7,9.88,6.67,Loamy,Panicle Initiation,26.03,59.35,1.62,Yes
+2024-10-29,Uttar Pradesh,32.47,31.19,2.94,Loamy,Flowering,25.72,61.63,0.77,No
+2024-07-08,Uttar Pradesh,38.44,4.36,4.51,Sandy Loam,Tillering,23.79,86.49,1.48,No
+2024-07-25,Uttar Pradesh,84.65,52.28,3.81,Clayey,Maturity,33.35,57.02,0.81,No
+2024-11-02,Uttar Pradesh,86.15,57.95,5.22,Clayey,Tillering,23.04,83.39,1.48,No
+2024-10-27,Uttar Pradesh,43.94,199.81,6.38,Sandy Loam,Maturity,32.86,54.81,1.62,No
+2024-06-03,Uttar Pradesh,58.9,22.51,6.99,Sandy Loam,Tillering,33.6,59.04,2.8,Yes
+2024-10-11,Uttar Pradesh,51.27,176.18,2.37,Clayey,Maturity,23.01,93.97,2.65,No
+2024-09-02,Uttar Pradesh,57.13,159.17,4.46,Sandy Loam,Tillering,31.66,90.64,0.86,No
+2024-07-07,Uttar Pradesh,33.67,97.84,4.1,Loamy,Tillering,37.71,43.3,2.05,No
+2024-07-14,Uttar Pradesh,28.46,170.72,5.71,Sandy Loam,Panicle Initiation,23.68,88.58,1.87,Yes
+2024-08-09,Uttar Pradesh,30.23,187.13,5.62,Clayey,Flowering,26.17,72.68,2.33,No
+2024-11-21,Uttar Pradesh,33.8,141.03,5.73,Loamy,Maturity,26.4,71.96,1.31,No
+2024-11-07,Uttar Pradesh,78.41,180.8,3.5,Sandy Loam,Flowering,27.66,75.28,1.14,No
+2024-09-20,Uttar Pradesh,82.16,23.8,3.82,Loamy,Panicle Initiation,35.71,71.28,0.63,No
+2024-07-23,Uttar Pradesh,32.98,153.27,2.57,Loamy,Panicle Initiation,27.36,94.69,2.44,No
+2024-11-04,Uttar Pradesh,34.89,198.98,4.12,Sandy Loam,Flowering,27.62,94.58,2.27,No
+2024-08-16,Uttar Pradesh,30.77,60.13,6.78,Sandy Loam,Panicle Initiation,34.71,47.02,1.83,No
+2024-09-30,Uttar Pradesh,25.23,136.72,4.59,Loamy,Flowering,37.66,80.76,1.79,Yes
+2024-11-19,Uttar Pradesh,86.18,68.03,5.64,Sandy Loam,Flowering,27.52,48.76,1.01,No
+2024-09-08,Uttar Pradesh,40.34,93.91,6.06,Clayey,Tillering,37.56,93.84,2.98,No
+2024-06-28,Uttar Pradesh,57.38,110.99,4.42,Clayey,Maturity,26.55,78.54,1.06,No
+2024-08-21,Uttar Pradesh,68.21,144.67,3.01,Clayey,Maturity,22.46,77.71,2.66,No
+2024-06-16,Uttar Pradesh,20.63,140.5,6.48,Loamy,Panicle Initiation,31.26,69.51,1.41,Yes
+2024-09-02,Uttar Pradesh,66.66,149.69,5.84,Loamy,Maturity,28.61,67.4,0.76,No
+2024-09-11,Uttar Pradesh,11.76,11.48,2.44,Loamy,Tillering,23.02,44.64,1.85,Yes
+2024-09-15,Uttar Pradesh,76.35,171.19,4.83,Clayey,Tillering,33.51,75.62,2.01,No
+2024-08-04,Uttar Pradesh,15.64,1.04,4.46,Clayey,Panicle Initiation,34.64,94.8,0.85,Yes
+2024-08-06,Uttar Pradesh,35.81,98.73,4.39,Sandy Loam,Flowering,25.73,47.03,1.13,No
+2024-07-18,Uttar Pradesh,66.67,120.98,3.3,Clayey,Tillering,35.72,67.32,0.5,No
+2024-11-01,Uttar Pradesh,18.47,117.86,5.86,Sandy Loam,Panicle Initiation,29.74,75.59,1.43,Yes
+2024-07-29,Uttar Pradesh,25.13,95.93,6.45,Sandy Loam,Tillering,26.98,51.51,1.36,Yes
+2024-10-19,Uttar Pradesh,40.02,138.07,4.3,Sandy Loam,Panicle Initiation,28.95,71.06,2.84,No
+2024-10-05,Uttar Pradesh,11.72,4.64,5.11,Sandy Loam,Tillering,30.14,40.49,0.54,Yes
+2024-08-06,Uttar Pradesh,28.3,154.89,5.34,Loamy,Panicle Initiation,32.3,49.49,1.65,Yes
+2024-07-29,Uttar Pradesh,26.94,179.94,3.5,Sandy Loam,Tillering,37.8,65.11,1.8,Yes
+2024-10-09,Uttar Pradesh,24.11,98.09,4.21,Clayey,Panicle Initiation,34.73,55.64,2.61,Yes
+2024-11-04,Uttar Pradesh,35.58,2.91,2.31,Sandy Loam,Tillering,26.29,88.77,2.95,No
+2024-07-16,Uttar Pradesh,19.01,187.33,5.98,Sandy Loam,Panicle Initiation,30.05,55.36,1.91,Yes
+2024-06-15,Uttar Pradesh,48.17,93.14,3.03,Loamy,Tillering,32.61,67.9,2.98,No
+2024-11-09,Uttar Pradesh,20.64,137.1,4.94,Loamy,Panicle Initiation,27.94,44.53,1.52,Yes
+2024-06-04,Uttar Pradesh,18.99,199.27,5.15,Clayey,Tillering,26.35,73.45,1.84,Yes
+2024-08-26,Uttar Pradesh,33.42,75.91,2.97,Clayey,Tillering,25.45,55.67,0.97,No
+2024-08-10,Uttar Pradesh,54.69,99.62,6.45,Clayey,Maturity,23.16,45.53,1.48,No
