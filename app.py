@@ -2,6 +2,7 @@ from flask import Flask, request, jsonify
 from werkzeug.serving import run_simple
 import pickle
 import numpy as np
+import pandas as pd
 
 app = Flask(__name__)
 
