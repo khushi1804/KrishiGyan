@@ -6,6 +6,17 @@ from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
 
 
+"""
+Data columns 
+N - ratio of Nitrogen content in soil
+P - ratio of Phosphorous content in soil
+K - ratio of Potassium content in soil
+temperature - temperature in degree Celsius
+humidity - relative humidity in %
+ph - ph value of the soil
+rainfall - rainfall in mm
+"""
+
 df = pd.read_csv('Crop_recommendation.csv')
 print(df.shape)
 df.head()
