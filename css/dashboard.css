@@ -1,0 +1,46 @@
+.dashboard-steps-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    max-width: 1200px;
+    margin: 50px auto;
+    gap: 20px;
+}
+
+/* Dashboard Styling */
+.dashboard {
+    background: linear-gradient(135deg, #e0f7fa, #80cbc4);
+    padding: 40px;
+    border-radius: 15px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+    width: 50%;  /* Adjust width for side-by-side */
+    text-align: center;
+    flex: 1; /* Helps in even distribution */
+}
+
+.input-box {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    padding: 20px;
+}
+
+label {
+    font-size: 18px;
+    font-weight: 600;
+    color: #004d40;
+}
+
+select, input {
+    padding: 12px;
+    border: 2px solid #004d40;
+    border-radius: 8px;
+    font-size: 16px;
+    outline: none;
+    transition: all 0.3s ease-in-out;
+}
+
+select:hover, input:hover, select:focus, input:focus {
+    border-color: #00796b;
+    box-shadow: 0 0 8px rgba(0, 121, 107, 0.2);
+}
