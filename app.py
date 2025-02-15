@@ -5,7 +5,7 @@ import numpy as np
 import pandas as pd
 from flask_cors import CORS
 app = Flask(__name__)
-CORS(app)
+CORS(app, resources={r"/*": {"origins": "*"}}) 
 
 # Load trained model
 with open('model.pkl', 'rb') as model_file:

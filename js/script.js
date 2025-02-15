@@ -19,7 +19,7 @@ document.addEventListener("DOMContentLoaded", function () {
         };
 
         // Call API using Fetch
-        fetch("http://localhost:5000/predict", {
+        fetch("https://261f-2409-4089-ae01-1841-64d3-8de4-b978-e4d6.ngrok-free.app", {
             method: "POST",
             headers: {
                 "Content-Type": "application/json"
