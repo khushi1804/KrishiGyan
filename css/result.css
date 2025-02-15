@@ -1,0 +1,74 @@
+/* Results Section */
+.results {
+    background: linear-gradient(to right, #0f2027, #203a43, #2c5364); /* Dark gradient */
+    color: white;
+    padding: 60px 20px;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+.results-title {
+    font-size: 2.5em;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    letter-spacing: 2px;
+    position: relative;
+    display: inline-block;
+}
+
+.results-title::after {
+    content: "";
+    display: block;
+    width: 50px;
+    height: 4px;
+    background: #f39c12; /* Accent color */
+    margin: 10px auto;
+    border-radius: 2px;
+}
+
+/* Flexbox for Layout */
+.results-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    max-width: 1200px;
+    margin: auto;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+
+/* Crop List Styling */
+.crop-list {
+    background: rgba(255, 255, 255, 0.1);
+    padding: 20px;
+    border-radius: 10px;
+    width: 45%;
+    text-align: left;
+    min-height: 150px;
+    box-shadow: 0px 5px 15px rgba(255, 255, 255, 0.2);
+    font-size: 1.2em;
+}
+
+/* Chart Container */
+.chart-container {
+    background: rgba(255, 255, 255, 0.1);
+    padding: 20px;
+    border-radius: 10px;
+    width: 45%;
+    min-height: 300px;
+    box-shadow: 0px 5px 15px rgba(255, 255, 255, 0.2);
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .results-container {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .crop-list, .chart-container {
+        width: 90%;
+    }
+}

@@ -11,10 +11,9 @@
     <link rel="stylesheet" href="css/steps.css">
     <link rel="stylesheet" href="css/about.css">
     <link rel="stylesheet" href="css/responsive.css">
+    <link rel="stylesheet" href="css/result.css">
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous"></script>
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.min.js" integrity="sha384-0pUGZvbkm6XF6gxjEnlmuGrJXVbNuzT9qBBavbLwCsOGabYfZo0T0to5eqruptLy" crossorigin="anonymous"></script>
-    <script src="js/script.js"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
 
 </head>
 <body>
@@ -25,17 +24,48 @@
 <!-- Hero Section -->
 
 <section class="hero">
-    <div class="carousel-container">
-        <div class="carousel">
-            <img src="images/hero1.jpg" alt="Farming Image 1">
-            <img src="images/hero2.jpg" alt="Farming Image 2">
-            <img src="images/hero3.png" alt="Farming Image 3">
-            <img src="images/hero4.jpg" alt="Farming Image 4">
+<!-- Hero Section with Bootstrap Carousel -->
+<section class="hero">
+    <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
+        <div class="carousel-inner">
+            <div class="carousel-item active" data-bs-interval="2000">
+                <div class="row">
+                    <div class="col-md-4">
+                        <img src="images/hero1.jpg" class="d-block w-100" alt="Farming Image 1">
+                    </div>
+                    <div class="col-md-4">
+                        <img src="images/hero2.jpg" class="d-block w-100" alt="Farming Image 2">
+                    </div>
+                    <div class="col-md-4">
+                        <img src="images/hero3.png" class="d-block w-100" alt="Farming Image 3">
+                    </div>
+                </div>
+            </div>
+            <div class="carousel-item" data-bs-interval="2000">
+                <div class="row">
+                    <div class="col-md-4">
+                        <img src="images/hero4.jpg" class="d-block w-100" alt="Farming Image 4">
+                    </div>
+                    <div class="col-md-4">
+                        <img src="images/hero5.jpg" class="d-block w-100" alt="Farming Image 5">
+                    </div>
+                    <div class="col-md-4">
+                        <img src="images/hero6.jpg" class="d-block w-100" alt="Farming Image 6">
+                    </div>
+                </div>
+            </div>
         </div>
-        <!-- Navigation Buttons -->
-        <button class="carousel-btn prev" onclick="moveSlide(-1)">&#10094;</button>
-        <button class="carousel-btn next" onclick="moveSlide(1)">&#10095;</button>
+
+        <!-- Previous and Next Buttons -->
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        </button>
     </div>
+</section>
+
 </section>
 
     <!-- About Section -->
@@ -101,12 +131,22 @@
 
 </div>
 
-    <!-- Results Section -->
-    <section class="results" id="results">
-        <h2>Recommended Crops</h2>
-        <div id="crop-list"></div>
-        <canvas id="cropChart"></canvas>
-    </section>
+<!-- Results Section -->
+<section class="results" id="results">
+    <h2 class="results-title">🌱 Recommended Crops</h2>
+    
+    <div class="results-container">
+        <!-- Crop List -->
+        <div id="crop-list" class="crop-list">
+            <p>Select soil type and conditions to view recommended crops.</p>
+        </div>
+
+        <!-- Chart Container -->
+        <div class="chart-container">
+            <canvas id="cropChart"></canvas>
+        </div>
+    </div>
+</section>
 
     <!-- Footer -->
     <footer>
@@ -114,5 +154,8 @@
     </footer>
 
     <script src="js/script.js"></script>
+
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
 </body>
 </html>

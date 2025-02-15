@@ -1,41 +1,56 @@
-// Image Carousel Infinite Scroll
-let currentSlide = 1;
-const carousel = document.querySelector('.carousel');
-const totalSlides = document.querySelectorAll('.carousel img').length - 2; // Excluding Clones
-const slideWidth = 100; // Each slide takes 100% width
-let autoScroll;
+document.addEventListener("DOMContentLoaded", function () {
+    document.getElementById("getRecommendation").addEventListener("click", function () {
+        // Get user input values
+        const soilType = document.getElementById("soil").value;
+        const weather = document.getElementById("weather").value;
+        const marketDemand = document.getElementById("market").value;
 
-// Move Slide Function
-function moveSlide(direction) {
-    clearInterval(autoScroll); // Stop auto scroll temporarily
-
-    currentSlide += direction;
-    carousel.style.transition = "transform 0.5s ease-in-out";
-    carousel.style.transform = `translateX(-${currentSlide * slideWidth}%)`;
-
-    // Handle Infinite Scroll Transition
-    setTimeout(() => {
-        if (currentSlide >= totalSlides + 1) {
-            currentSlide = 1;
-            carousel.style.transition = "none";
-            carousel.style.transform = `translateX(-${currentSlide * slideWidth}%)`;
-        } else if (currentSlide <= 0) {
-            currentSlide = totalSlides;
-            carousel.style.transition = "none";
-            carousel.style.transform = `translateX(-${currentSlide * slideWidth}%)`;
+        // Check if inputs are empty
+        if (!soilType || !weather || !marketDemand) {
+            alert("⚠️ Please fill all the fields before submitting!");
+            return;
         }
-    }, 500);
 
-    startAutoScroll(); // Restart auto-scroll
+        // Data to send in POST request
+        const requestData = {
+            soil_type: soilType,
+            weather: weather,
+            market_demand: marketDemand
+        };
+
+        // Call API using Fetch
+        fetch("http://localhost:5000/predict", {
+            method: "POST",
+            headers: {
+                "Content-Type": "application/json"
+            },
+            body: JSON.stringify(requestData)
+        })
+        .then(response => response.json())  
+        .then(data => {
+            console.log("Response from server:", data);
+            displayResults(data);
+        })
+        .catch(error => {
+            console.error("Error:", error);
+            alert("❌ Failed to fetch recommendations. Please try again!");
+        });
+    });
+});
+
+// Function to display results
+function displayResults(data) {
+    const cropList = document.getElementById("crop-list");
+    cropList.innerHTML = "<h3>🌾 Recommended Crops:</h3>";
+
+    if (data.crops && data.crops.length > 0) {
+        let cropsHtml = "<ul>";
+        data.crops.forEach(crop => {
+            cropsHtml += `<li>${crop}</li>`;
+        });
+        cropsHtml += "</ul>";
+        cropList.innerHTML += cropsHtml;
+    } else {
+        cropList.innerHTML += "<p>No recommendations found.</p>";
+    }
 }
-
-// Auto Scroll Function
-function startAutoScroll() {
-    autoScroll = setInterval(() => moveSlide(1), 4000);
-}
-
-// Initialize Carousel
-window.onload = () => {
-    carousel.style.transform = `translateX(-${currentSlide * slideWidth}%)`;
-    startAutoScroll();
-};
