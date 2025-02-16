@@ -1,12 +1,18 @@
+
+document.addEventListener("DOMContentLoaded", function () {
+    document.getElementById("results").style.display = "none"; // Hide results section on page load
+});
+
 document.addEventListener("DOMContentLoaded", function () {
     document.getElementById("getRecommendation").addEventListener("click", function () {
         // Get user input values
         const soilType = document.getElementById("soil").value;
         const weather = document.getElementById("weather").value;
-        const marketDemand = document.getElementById("market").value;
+        const humidity = document.getElementById("market").value;
+        const rainfall = document.getElementById("rainfall").value;
 
         // Check if inputs are empty
-        if (!soilType || !weather || !marketDemand) {
+        if (!soilType || !weather || !humidity || !rainfall) {
             alert("⚠️ Please fill all the fields before submitting!");
             return;
         }
@@ -15,11 +21,12 @@ document.addEventListener("DOMContentLoaded", function () {
         const requestData = {
             soil_type: soilType,
             weather: weather,
-            market_demand: marketDemand
+            humidity: humidity,
+            rainfall:rainfall
         };
 
         // Call API using Fetch
-        fetch("https://261f-2409-4089-ae01-1841-64d3-8de4-b978-e4d6.ngrok-free.app", {
+        fetch("http://127.0.0.1:5000/predict", {
             method: "POST",
             headers: {
                 "Content-Type": "application/json"
@@ -30,10 +37,12 @@ document.addEventListener("DOMContentLoaded", function () {
         .then(data => {
             console.log("Response from server:", data);
             displayResults(data);
+            document.getElementById("results").style.display = "block";
         })
         .catch(error => {
             console.error("Error:", error);
             alert("❌ Failed to fetch recommendations. Please try again!");
+            document.getElementById("results").style.display = "none";
         });
     });
 });
@@ -43,14 +52,15 @@ function displayResults(data) {
     const cropList = document.getElementById("crop-list");
     cropList.innerHTML = "<h3>🌾 Recommended Crops:</h3>";
 
-    if (data.crops && data.crops.length > 0) {
-        let cropsHtml = "<ul>";
-        data.crops.forEach(crop => {
-            cropsHtml += `<li>${crop}</li>`;
-        });
-        cropsHtml += "</ul>";
-        cropList.innerHTML += cropsHtml;
+    if (data.prediction) {
+        cropList.innerHTML += `
+            <div class="crop-card">
+                <span class="crop-name">${data.prediction}</span>
+            </div>
+        `;
     } else {
-        cropList.innerHTML += "<p>No recommendations found.</p>";
+        cropList.innerHTML += "<p class='no-result'>🚫 No recommendations found.</p>";
     }
 }
+
+

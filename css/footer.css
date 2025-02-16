@@ -1,0 +1,10 @@
+footer {
+    text-align: center;  /* Center the text */
+    font-size: 1rem;  /* Adjust font size for readability */
+    font-weight: 500;  /* Slightly bold */
+    color: #555;  /* Subtle text color */
+    margin-top: 40px;  /* Add space from the above section */
+    padding: 15px 0;  /* Add some padding for better spacing */
+    background: #f8f8f8;  /* Light background for better separation */
+    border-top: 2px solid #ddd;  /* Subtle top border for separation */
+}

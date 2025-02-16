@@ -51,6 +51,48 @@
     font-size: 1.2em;
 }
 
+.crop-card {
+    background: #f4f9f4;
+    border: 2px solid #81c784;
+    padding: 15px;
+    border-radius: 8px;
+    display: flex;  /* Center using flexbox */
+    justify-content: center; /* Horizontal centering */
+    align-items: center; /* Vertical centering */
+    text-align: center;
+    margin-top: 10px;
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #2e7d32;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+    width: 100%; /* Ensure it spans the width */
+    max-width: 300px; /* Optional: Restrict width */
+    margin-left: auto; /* Center horizontally */
+    margin-right: auto; /* Center horizontally */
+}
+
+.crop-name {
+    font-size: 1.4rem;
+    font-weight: 600;
+    text-transform: uppercase; /* Convert text to uppercase */
+}
+
+#crop-list h3 {
+    text-align: center;  /* Center the text */
+    font-size: 1.5rem;   /* Increase font size for better visibility */
+    font-weight: bold;   /* Make it bold */
+    color: #e1e1e1;      /* Match the crop card text color */
+    margin-bottom: 10px; /* Add spacing below */
+}
+
+
+.no-result {
+    color: #d32f2f;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+
 /* Chart Container */
 .chart-container {
     background: rgba(255, 255, 255, 0.1);
