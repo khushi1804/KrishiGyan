@@ -15,7 +15,7 @@ model = crop_model["model"]
 encoders = crop_model["encoders"]
 
 # Load the trained model
-with open("irrigation_model.pkl", "rb") as f:
+with open("model_irrigation.pkl", "rb") as f:
     irrigation_model = pickle.load(f)
 
 rf_model = irrigation_model["model"]
