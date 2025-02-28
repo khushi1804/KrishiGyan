@@ -5,10 +5,12 @@ Here’s a **README.md** file for your **KrishiGyan** project on GitHub:
 # KrishiGyan 🌱  
 A Machine Learning-based web application that recommends the best crop type based on environmental conditions like **temperature, soil type, humidity, and rainfall**.
 
+**Video Demonstration** - https://drive.google.com/file/d/1xYn3qONo-VoFihxZu5hUS98ePzLtIsRZ/view?usp=sharing
+
 ## 📌 Features  
 - **Crop Recommendation**: Predicts the most suitable crop based on environmental factors.  
 - **Machine Learning Model**: Utilizes **Random Forest Classifier** for prediction.  
-- **User-friendly Web Interface**: Built with **HTML, CSS, and Flask (Python backend)**.  
+- **User-friendly Web Interface**: Built with **HTML, CSS, and Flask**.  
 - **Dynamic Input Handling**: Users can enter values for soil type, temperature, humidity, and rainfall to get real-time recommendations.  
 
 ## 🏗️ Project Structure  
