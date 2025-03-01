@@ -1,6 +1,4 @@
-Here’s a **README.md** file for your **KrishiGyan** project on GitHub:
 
----
 
 # KrishiGyan 🌱  
 A Machine Learning-based web application that recommends the best crop type based on environmental conditions like **temperature, soil type, humidity, and rainfall**.
