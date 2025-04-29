@@ -21,26 +21,46 @@
 .input-box {
     display: flex;
     flex-direction: column;
-    gap: 15px;
-    padding: 20px;
+    gap: 20px;
+    padding: 10px 0;
 }
-
 label {
-    font-size: 18px;
+    font-size: 17px;
     font-weight: 600;
-    color: #004d40;
+    color: #00695c;
+    margin-bottom: 5px;
+    align-items: flex-start;
 }
 
 select, input {
-    padding: 12px;
+    padding: 12px 16px;
     border: 2px solid #004d40;
-    border-radius: 8px;
+    border-radius: 10px;
     font-size: 16px;
-    outline: none;
+    background-color: #ffffff;
     transition: all 0.3s ease-in-out;
 }
 
-select:hover, input:hover, select:focus, input:focus {
+select:hover, input:hover,
+select:focus, input:focus {
     border-color: #00796b;
-    box-shadow: 0 0 8px rgba(0, 121, 107, 0.2);
+    box-shadow: 0 0 10px rgba(0, 150, 136, 0.2);
 }
+
+.predict-btn {
+    background-color: #00796b;
+    color: white;
+    border: none;
+    padding: 14px 20px;
+    border-radius: 10px;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s;
+}
+
+.predict-btn:hover {
+    background-color: #004d40;
+    transform: scale(1.03);
+}
+

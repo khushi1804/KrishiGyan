@@ -10,7 +10,6 @@ rainfall - rainfall in mm
 month - best month for sowing
 """
 
-print('DATA INFO')
 
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.model_selection import train_test_split

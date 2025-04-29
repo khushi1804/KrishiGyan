@@ -18,9 +18,12 @@
 
 </head>
 <body>
-    <header>
-        <div class="logo">KrishiGyan</div>
+    <header class="navbar sticky-header">
+        <div class="container-fluid d-flex justify-content-between align-items-center px-4 py-2">
+            <div class="logo text-white fw-bold fs-4">KrishiGyan</div>
+        </div>
     </header>
+    
 
 <!-- Hero Section -->
 
@@ -117,14 +120,14 @@
                 <option>Clay</option>
                 <option>Loamy</option>
                 <option>Sandy</option>
-                <option>Silty</option>
+                <option>Peaty</option>
+                <option>Saline</option>
+                <option>Chalky</option>
             </select>
             
-            <label for="weather">Temprature:</label>
-            <input type="text" id="weather" placeholder="Current Temprature">
-            
-            <label for="market">Humidity</label>
-            <input type="text" id="market" placeholder="Humidity">
+            <label for="city">City:</label>
+            <input type="text" id="city" placeholder="Enter your city name">
+
 
             <label for="rainfall">Rainfall</label>
             <input type="text" id="rainfall" placeholder="Rainfall (in mm)">
