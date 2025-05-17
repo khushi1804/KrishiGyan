@@ -87,7 +87,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 
-st.title("💬 KrishiGyan")
+st.title("KrishiGyan")
 
 # Session state setup
 if "started" not in st.session_state:
